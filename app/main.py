@@ -1,9 +1,12 @@
 from fastapi import FastAPI
-from app.db.database import engine, Base
+from app.db.database import engine, Base, AsyncSessionLocal
 from app.routes.report_routes import router
 from contextlib import asynccontextmanager
 from app.routes import auth_routes
 from app.models.report import Report
+from app.models.user import User
+from sqlalchemy.future import select
+from app.core.security import pwd_context
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -20,6 +23,18 @@ async def lifespan(app: FastAPI):
 
     print("Database tables created/verified.")
 
+    async with AsyncSessionLocal() as session:
+        result = await session.execute(select(User).filter(User.username == "leader"))
+        leader = result.scalars().first()
+        if not leader:
+            hashed_pw = pwd_context.hash("admin")
+            new_leader = User(username="leader", hashed_password=hashed_pw, role="leader")
+            session.add(new_leader)
+            await session.commit()
+            print("Seeded leader user: leader / admin")
+        else:
+            print("Leader user already exists.")
+
     yield
 
 app = FastAPI(lifespan=lifespan)
@@ -31,4 +46,4 @@ def health_check():
 
 # Register all routers
 app.include_router(router)
-app.include_router(auth_routes.router)
+app.include_router(auth_routes.router)

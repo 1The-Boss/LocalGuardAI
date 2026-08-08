@@ -2,19 +2,22 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 from app.models.report import Report
 from app.schemas.report import ReportCreate, ReportUpdate
+from app.ai.priority_engine import predict_priority
 
 
 async def create_report(db: AsyncSession, report_data: ReportCreate):
-    # Create a new Report object.
-    # priority_score is temporarily 0.0.
-    # Later, our AI model will calculate the actual score.
+    # Calculate priority score using AI model
+    try:
+        calculated_priority = predict_priority(report_data.description)
+    except Exception:
+        calculated_priority = 0.0
 
     new_report = Report(
         description=report_data.description,
         lat=report_data.lat,
         lng=report_data.lng,
         category=report_data.category,
-        priority_score=0.0,
+        priority_score=calculated_priority,
         status="open"
     )
 
@@ -40,13 +43,13 @@ async def get_report_by_id(db: AsyncSession, report_id):
 
 async def update_report(db: AsyncSession, report: Report, update_data: dict):
 
-    # Update only the fields supplied by the client.
-    for key, value in update_data.items():
-        setattr(report, key, value)
-
     # Prevent reopening closed reports.
     if report.status == "closed" and update_data.get("status") == "open":
         raise ValueError("Closed reports cannot be reopened")
+
+    # Update only the fields supplied by the client.
+    for key, value in update_data.items():
+        setattr(report, key, value)
 
     await db.commit()
     await db.refresh(report)

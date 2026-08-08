@@ -8,6 +8,8 @@ from typing import List
 
 # Database dependency
 from app.db.dependencies import get_db
+from app.auth.dependencies import require_role
+
 
 # Pydantic schemas
 from app.schemas.report import (
@@ -100,7 +102,8 @@ async def read_single_report(
 async def modify_report(
     report_id: UUID,
     updates: ReportUpdate,
-    db: AsyncSession = Depends(get_db)
+    db: AsyncSession = Depends(get_db),
+    current_user=Depends(require_role("leader"))
 ):
     """
     Update only the fields supplied by the client.
@@ -117,11 +120,17 @@ async def modify_report(
 
     # Convert Pydantic model into a dictionary.
     # exclude_unset=True means only supplied fields are updated.
-    updated_report = await update_report(
-        db,
-        report,
-        updates.model_dump(exclude_unset=True)
-    )
+    try:
+        updated_report = await update_report(
+            db,
+            report,
+            updates.model_dump(exclude_unset=True)
+        )
+    except ValueError as e:
+        raise HTTPException(
+            status_code=400,
+            detail=str(e)
+        )
 
     return updated_report
 
@@ -157,4 +166,5 @@ async def remove_report(
 @router.get("/items/")
 async def read_items(db: AsyncSession = Depends(get_db)):
     result = await db.execute(text("SELECT * FROM reports"))
-    return result.all()
+    rows = result.mappings().all()
+    return [dict(row) for row in rows]
