@@ -1,1 +1,1 @@
-# LocalGuardAI
+# LocalGuardAI Connect
