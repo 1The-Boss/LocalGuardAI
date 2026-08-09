@@ -1,15 +1,13 @@
-# from sqlalchemy import create_engine
-# from app.core.config import DATABASE_URL
-from sqlalchemy.orm import sessionmaker, declarative_base, Session
+from sqlalchemy.orm import sessionmaker, declarative_base
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
-from dotenv import load_dotenv
-import os
+from app.core.config import DATABASE_URL
 
-load_dotenv()
-DATABASE_URL = os.getenv("DATABASE_URL")
+assert DATABASE_URL, (
+    "DATABASE_URL missing from .env - add e.g. "
+    "DATABASE_URL=postgresql+asyncpg://postgres:password@localhost:5432/localguard"
+)
 
-
-engine=create_async_engine(DATABASE_URL, echo=True)
+engine = create_async_engine(DATABASE_URL, echo=True)
 
 # Async session factory - connects with PostgreSQL asynchronously
 AsyncSessionLocal = sessionmaker(
@@ -18,5 +16,4 @@ AsyncSessionLocal = sessionmaker(
     expire_on_commit=False
 )
 
-Base=declarative_base() # Base factory for ORM models
-print(DATABASE_URL)
+Base = declarative_base()  # Base factory for ORM models

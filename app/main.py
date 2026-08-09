@@ -10,10 +10,6 @@ from app.core.security import pwd_context
 from app.officers import OFFICERS
 import asyncio
 from sqlalchemy.ext.asyncio import AsyncSession
-from app.models.user import User  
-from app.db.database import AsyncSessionLocal  
-
-
 
 async def seed_officers():
     async with AsyncSessionLocal() as session:
