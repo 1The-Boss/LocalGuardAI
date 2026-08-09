@@ -7,6 +7,32 @@ from app.models.report import Report
 from app.models.user import User
 from sqlalchemy.future import select
 from app.core.security import pwd_context
+from app.officers import OFFICERS
+import asyncio
+from sqlalchemy.ext.asyncio import AsyncSession
+from app.models.user import User  
+from app.db.database import AsyncSessionLocal  
+
+
+
+async def seed_officers():
+    async with AsyncSessionLocal() as session:
+        for officer in OFFICERS:
+            result = await session.execute(select(User).filter(User.username == officer["username"]))
+            existing = result.scalars().first()
+            if not existing:
+                hashed_pw = pwd_context.hash(officer["password"])
+                new_user = User(
+                    username=officer["username"],
+                    hashed_password=hashed_pw,
+                    role=officer["role"]
+                )
+                session.add(new_user)
+                print(f"Seeded officer: {officer['username']}")
+            else:
+                print(f"Officer {officer['username']} already exists.")
+        await session.commit()
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -15,8 +41,6 @@ async def lifespan(app: FastAPI):
     print("STARTING LOCALGUARDAI")
     print("====================================")
 
-    print("Registered SQLAlchemy tables:")
-    print(Base.metadata.tables.keys())
 
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
@@ -34,7 +58,7 @@ async def lifespan(app: FastAPI):
             print("Seeded leader user: leader / admin")
         else:
             print("Leader user already exists.")
-
+    await seed_officers()
     yield
 
 app = FastAPI(lifespan=lifespan)
@@ -44,6 +68,7 @@ def health_check():
     return {"status": "ok"}
 
 
+
 # Register all routers
 app.include_router(router)
-app.include_router(auth_routes.router)
+app.include_router(auth_routes.router)

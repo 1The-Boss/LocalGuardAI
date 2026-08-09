@@ -7,3 +7,4 @@ load_dotenv(BASE_DIR / ".env")
 
 DATABASE_URL = os.getenv("DATABASE_URL")
 SECRET_KEY = os.getenv("SECRET_KEY")
+assert SECRET_KEY, "SECRET_KEY missing from .env"

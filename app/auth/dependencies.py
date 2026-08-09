@@ -1,13 +1,17 @@
 from fastapi import Depends, HTTPException
-from fastapi.security import OAuth2PasswordBearer
+from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from app.auth.jwt_handler import decode_access_token
 from app.db.dependencies import get_db
 from app.models.user import User
 from sqlalchemy.future import select
 
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/auth/login")
+bearer_scheme = HTTPBearer()
 
-async def get_current_user(token: str = Depends(oauth2_scheme), db=Depends(get_db)):
+async def get_current_user(
+    credentials: HTTPAuthorizationCredentials = Depends(bearer_scheme),
+    db=Depends(get_db)
+):
+    token = credentials.credentials
     payload = decode_access_token(token)
     username = payload.get("sub")
     if not username:
