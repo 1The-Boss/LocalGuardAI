@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn[standard]
 sqlalchemy[asyncio]
@@ -8,3 +9,6 @@ passlib[bcrypt]
 bcrypt
 python-multipart
 pydantic
+=======
+
+>>>>>>> d9f0f215cd4ab6beb425ded8db6c88488dec5e91
