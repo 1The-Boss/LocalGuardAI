@@ -1,4 +1,4 @@
-from .database import AsyncSessionLocal
+from ...database import AsyncSessionLocal
 from fastapi import Depends
 
 async def get_db():

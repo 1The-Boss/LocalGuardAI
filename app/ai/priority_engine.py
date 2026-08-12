@@ -1,4 +1,4 @@
-from app.ai.model_loader import load_model
+from ..ai.model_loader import load_model
 
 vectorizer, model = load_model()
 

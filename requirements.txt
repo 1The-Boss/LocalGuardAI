@@ -10,3 +10,8 @@ python-multipart
 pydantic
 joblib
 scikit-learn
+geoalchemy2
+groq
+transformers
+torch
+huggingface_hub

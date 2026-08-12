@@ -1,6 +1,6 @@
 from jose import jwt, JWTError
 from datetime import datetime, timedelta
-from app.core.config import SECRET_KEY
+from ..core.config import SECRET_KEY
 from fastapi import HTTPException
 
 

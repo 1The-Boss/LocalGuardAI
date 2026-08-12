@@ -2,8 +2,11 @@ print("REPORT MODEL LOADED")
 import uuid
 from sqlalchemy import Column, String, Float, DateTime, Index
 from sqlalchemy.dialects.postgresql import UUID 
-from app.db.database import Base
+from ..db.database import Base
 from sqlalchemy.sql import func
+from geoalchemy2 import Geometry
+
+ack_message = Column(String, nullable=True)
 
 class Report(Base):
     __tablename__ = "reports"
@@ -17,7 +20,10 @@ class Report(Base):
     image_path = Column(String, nullable=True)
     lat = Column(Float, nullable=False)
     lng = Column(Float, nullable=False)
+    geo = Column(Geometry(geometry_type="POINT", srid=4326), nullable=True)
+
 
 
 Index("idx_status", Report.status)
 Index("idx_created", Report.created_at)
+Index("idx_geo", Report.geo, postgresql_using="gist")

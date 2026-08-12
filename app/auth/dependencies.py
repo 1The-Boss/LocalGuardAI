@@ -1,8 +1,8 @@
 from fastapi import Depends, HTTPException
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
-from app.auth.jwt_handler import decode_access_token
-from app.db.dependencies import get_db
-from app.models.user import User
+from ..auth.jwt_handler import decode_access_token
+from ..db.dependencies import get_db
+from ..models.user import User
 from sqlalchemy.future import select
 
 bearer_scheme = HTTPBearer()

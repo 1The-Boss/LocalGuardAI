@@ -1,0 +1,5027 @@
+[
+  {
+    "id": "cmp_0001",
+    "text": "Eve teasing complaints increasing near college gate but no police booth or patrol in the area.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0002",
+    "text": "Public library building has been shut for renovation for over a year with no sign of reopening.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.0596,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0003",
+    "text": "सार्वजनिक शौचालय में कई महीनों से ताला लगा हुआ है, लोग खुले में शौच करने को मजबूर हैं।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.863
+  },
+  {
+    "id": "cmp_0004",
+    "text": "पानी की टंकी की सफाई साल में एक बार भी नहीं होती, complaint dene ke baad bhi kuch nahi hota.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0005",
+    "text": "Naali (drain) block ho gayi hai kachre se, gali mein ganda paani bahar aa raha hai.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.038,
+    "lng": 72.885,
+    "metadata": {
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_0006",
+    "text": "Illegal floor being added to building without any permission or NOC, structure looks unsafe already.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0007",
+    "text": "Mangroves being destroyed near creek for illegal dumping and construction, this affects local ecology badly.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "high",
+    "lat": 19.043,
+    "lng": 72.906,
+    "metadata": {
+      "landmark": "Mahim Creek"
+    }
+  },
+  {
+    "id": "cmp_0008",
+    "text": "Road digging work started 3 months ago by BMC contractor, still not closed properly, very risky for pedestrians.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "landmark": "Vile Parle"
+    }
+  },
+  {
+    "id": "cmp_0009",
+    "text": "सोशल मीडिया पर झूठी खबर फैल रही है कि नगर निगम पानी में केमिकल मिला रहा है, लोग डरे हुए हैं।",
+    "expected_category": "misinformation",
+    "expected_urgency": "medium",
+    "lat": 19.1197,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0010",
+    "text": "बस स्टॉप के पास कोई डस्टबिन नहीं है इसलिए लोग वहीं कचरा फेंक देते हैं।",
+    "expected_category": "garbage",
+    "expected_urgency": "low",
+    "lat": 19.156,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0011",
+    "text": "Sion-Panvel highway pe road divider tuta hua hai, raat ko bahut accident ho rahe hain.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.043,
+    "lng": 73.0,
+    "metadata": {
+      "landmark": "Sion-Panvel Highway"
+    }
+  },
+  {
+    "id": "cmp_0012",
+    "text": "Society ke bahar drainage line overflow ho rahi hai 2 hafte se, bahut badbu aati hai ghar tak.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.162,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0013",
+    "text": "Ghar mein paani ka pressure bahut kam hai subah se, pura building affected hai.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.155,
+    "lng": 72.8437
+  },
+  {
+    "id": "cmp_0014",
+    "text": "मुख्य सड़क पर पानी भर गया है बारिश के बाद, गाड़ियां फंस रही हैं रोज।",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1876,
+    "lng": 72.8493,
+    "metadata": {
+      "landmark": "Kandivali"
+    }
+  },
+  {
+    "id": "cmp_0015",
+    "text": "Bribe demanded for issuing birth certificate at the local municipal office, this is completely unacceptable.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.129,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0016",
+    "text": "Corporator ka office sirf election ke time khulta hai, baaki saal koi milta hi nahi hai.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.129,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0017",
+    "text": "प्रॉपर्टी टैक्स भरने के बावजूद रसीद देने के नाम पर दलाल पैसे मांग रहा है।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.129,
+    "lng": 72.8397
+  },
+  {
+    "id": "cmp_0018",
+    "text": "Underpass near station gets waterlogged even with light rain, commuters have to wade through dirty water.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Bandra Station Underpass"
+    }
+  },
+  {
+    "id": "cmp_0019",
+    "text": "Streetdog sterilisation drive promised 6 months back by corporator never actually started in our ward.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "low",
+    "lat": 19.1197,
+    "lng": 72.863
+  },
+  {
+    "id": "cmp_0020",
+    "text": "बिजली के तार पेड़ की डालियों में उलझे हुए हैं, तेज हवा चलने पर शॉर्ट सर्किट का डर है।",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.862
+  },
+  {
+    "id": "cmp_0021",
+    "text": "Auto rickshaw wale meter se jaane se mana karte hain aur zyada paise maangte hain station ke bahar.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.043,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Dadar Station"
+    }
+  },
+  {
+    "id": "cmp_0022",
+    "text": "Chhota pul (bridge) Mahim creek ke paas se dhirey dhirey dhas raha hai, structural inspection zaroori hai.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.043,
+    "lng": 72.84,
+    "metadata": {
+      "landmark": "Mahim Creek"
+    }
+  },
+  {
+    "id": "cmp_0023",
+    "text": "Nagarsevak office band rehta hai zyadatar time, koi complaint sunne wala nahi hai wahan.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.129,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0024",
+    "text": "Society borewell paani khaare ho gaya hai achanak, lगता hai koi contamination hua hai underground.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.949
+  },
+  {
+    "id": "cmp_0025",
+    "text": "पानी की पाइपलाइन में लीकेज है महीनों से, हर दिन हजारों लीटर पानी बर्बाद हो रहा है।",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.1091,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0026",
+    "text": "Air quality bahut kharab ho gayi hai factory ke dhuen ki wajah se, saans lene mein problem ho rahi hai.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "high",
+    "lat": 19.2,
+    "lng": 72.967,
+    "metadata": {
+      "landmark": "Thane Industrial Area"
+    }
+  },
+  {
+    "id": "cmp_0027",
+    "text": "Traffic signal not working at Kurla junction for the past week, causing massive chaos during peak hours.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.0726,
+    "lng": 72.8845,
+    "metadata": {
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_0028",
+    "text": "Open drain full of garbage overflowing onto the road during rains, mosquito breeding ground.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.899,
+    "metadata": {
+      "landmark": "Powai"
+    }
+  },
+  {
+    "id": "cmp_0029",
+    "text": "मोहल्ले में डेंगू के मरीज बढ़ रहे हैं लेकिन फॉगिंग गाड़ी एक महीने से नहीं आई है।",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0030",
+    "text": "हमारे इलाके में पानी की सप्लाई सिर्फ 20 मिनट के लिए आती है, वो भी गंदा पानी आता है।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.862,
+    "metadata": {
+      "landmark": "Sion"
+    }
+  },
+  {
+    "id": "cmp_0031",
+    "text": "रात के समय सुनसान गली में स्ट्रीट लाइट नहीं जलती, महिलाओं के लिए अकेले चलना असुरक्षित है।",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0032",
+    "text": "बस स्टॉप का शेड टूटा हुआ है, बारिश में यात्रियों को भीगना पड़ता है रोज़।",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0033",
+    "text": "Stray cattle roaming on main road causing traffic issues and accidents during evening hours.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "landmark": "Thane West"
+    }
+  },
+  {
+    "id": "cmp_0034",
+    "text": "New flyover approach road has no proper lighting, feels unsafe walking there after 9pm.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.129,
+    "lng": 72.8265
+  },
+  {
+    "id": "cmp_0035",
+    "text": "Electric meter reading is coming abnormally high compared to actual usage, need inspection.",
+    "expected_category": "electricity",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0036",
+    "text": "Paani ka pipe leak ho raha hai road ke kinare, bahut din se paani bahta hi rehta hai, wastage ho raha hai.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.1091,
+    "lng": 72.8365
+  },
+  {
+    "id": "cmp_0037",
+    "text": "देर रात तक लाउडस्पीकर पर तेज़ आवाज़ में गाने बजते हैं, बुज़ुर्गों और बच्चों की नींद खराब होती है।",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862
+  },
+  {
+    "id": "cmp_0038",
+    "text": "Water bill bahut zyada aaya hai is mahine bina kisi wajah ke, meter reading galat li gayi lagti hai.",
+    "expected_category": "water",
+    "expected_urgency": "low",
+    "lat": 19.145,
+    "lng": 72.8258
+  },
+  {
+    "id": "cmp_0039",
+    "text": "Community dustbin overflowing since a week, ragpickers scatter it further looking for recyclables.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.045,
+    "lng": 72.841
+  },
+  {
+    "id": "cmp_0040",
+    "text": "Swachh Bharat ke naam pe sirf poster lage hain, actual mein humare area mein safai kabhi nahi hoti.",
+    "expected_category": "sanitation",
+    "expected_urgency": "medium",
+    "lat": 19.029,
+    "lng": 72.856
+  },
+  {
+    "id": "cmp_0041",
+    "text": "संपत्ति कर के नाम पर एजेंट ज्यादा पैसे मांग रहा है, असली रसीद भी नहीं देता।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.863
+  },
+  {
+    "id": "cmp_0042",
+    "text": "गटर का ढक्कन टूटा हुआ है पिछले महीने से, कल एक बच्चा गिरते गिरते बचा।",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.045,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0043",
+    "text": "गली में सुअर घूमते रहते हैं दिन भर, कचरे में मुंह मारते हैं, बीमारी फैलने का डर है।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.899,
+    "metadata": {
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_0044",
+    "text": "फुटपाथ पर बिजली का खुला तार लटक रहा है, बच्चे वहां से गुजरते हैं स्कूल जाते वक़्त।",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.121,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0045",
+    "text": "BEST bus stop shelter is completely broken, no place to stand during rain while waiting for bus.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.0596,
+    "lng": 72.856
+  },
+  {
+    "id": "cmp_0046",
+    "text": "Government school building has cracks in the ceiling, feels unsafe for the children studying there.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.043,
+    "lng": 72.906
+  },
+  {
+    "id": "cmp_0047",
+    "text": "Local pond/talao is filled with plastic waste and looks extremely polluted, kids used to swim here earlier.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.967,
+    "metadata": {
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_0048",
+    "text": "Illegal water connections taken by nearby car wash center, reducing pressure for entire lane.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.114,
+    "lng": 72.871
+  },
+  {
+    "id": "cmp_0049",
+    "text": "Ration dukaan wala kam anaj deta hai aur zyada paise leta hai, complaint ke baad bhi kuch nahi hua.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0050",
+    "text": "Fire safety equipment in our residential building has expired 2 years ago, society not renewing it.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0051",
+    "text": "Local pond used for immersion has become permanently polluted with idol chemicals, fish are dying visibly.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_0052",
+    "text": "Streetlight poles installed 6 months ago still not connected to power, whole stretch remains dark.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.178,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0053",
+    "text": "Broken glass and metal scrap dumped on the playground, children have gotten hurt playing there.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0054",
+    "text": "Bijli ka khambha jhukka hua hai bahut zyada, tar bhi neeche latak rahe hain, koi accident ho sakta hai.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.087,
+    "lng": 72.871
+  },
+  {
+    "id": "cmp_0055",
+    "text": "Footpath tiles ukhad gayi hain Bandra station ke bahar, senior citizens ko chalne me dikkat ho rahi hai.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295
+  },
+  {
+    "id": "cmp_0056",
+    "text": "शौचालय की टंकी में पानी नहीं आता कई दिनों से, महिलाओं को बहुत दिक्कत हो रही है।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0057",
+    "text": "Streetlight timer is faulty, lights turn on only at midnight and off by 4am, useless for evening commuters.",
+    "expected_category": "electricity",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0058",
+    "text": "Municipal water tank overflow ho raha hai roz raat ko, area mein paani bhar jaata hai.",
+    "expected_category": "water",
+    "expected_urgency": "low",
+    "lat": 19.1663,
+    "lng": 72.858
+  },
+  {
+    "id": "cmp_0059",
+    "text": "Voltage fluctuation is damaging appliances in our building repeatedly, complained multiple times already.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.048,
+    "lng": 72.83
+  },
+  {
+    "id": "cmp_0060",
+    "text": "सड़क के बीचों-बीच गड्ढा है, कल एक ऑटो पलट गया था इसी वजह से। कृपया जल्द ठीक करवाएं।",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.0862,
+    "lng": 72.8811,
+    "metadata": {
+      "landmark": "Ghatkopar"
+    }
+  },
+  {
+    "id": "cmp_0061",
+    "text": "Pipeline burst near main road causing huge water wastage since morning, nobody from ward office responding.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.087,
+    "lng": 72.899,
+    "metadata": {
+      "landmark": "Ghatkopar East"
+    }
+  },
+  {
+    "id": "cmp_0062",
+    "text": "Beach cleanup promised by local authorities after festival never happened, plastic and idol waste still lying there.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.818,
+    "metadata": {
+      "landmark": "Dadar Chowpatty"
+    }
+  },
+  {
+    "id": "cmp_0063",
+    "text": "New water connection application pending since 4 months, no update from BMC ward office despite follow ups.",
+    "expected_category": "water",
+    "expected_urgency": "low",
+    "lat": 19.0625,
+    "lng": 72.837
+  },
+  {
+    "id": "cmp_0064",
+    "text": "Sewage overflow flooding into residential lane, this has been going on for over a week now, very unhygienic.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.876
+  },
+  {
+    "id": "cmp_0065",
+    "text": "पार्क में लगे झूले टूट चुके हैं और जंग खा गए हैं, बच्चों के चोटिल होने का डर बना रहता है।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871
+  },
+  {
+    "id": "cmp_0066",
+    "text": "Garbage burning openly every evening near our society, smoke causing breathing issues to elderly residents.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.156,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0067",
+    "text": "Fake news circulating on social media about a new lockdown starting tomorrow, people are panic buying groceries.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0068",
+    "text": "Metro construction barricades left unattended with exposed rebar sticking out, dangerous for pedestrians at night.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.863,
+    "metadata": {
+      "landmark": "Metro Construction Site"
+    }
+  },
+  {
+    "id": "cmp_0069",
+    "text": "टँकर माफिया लोगों से पैसे वसूल रहे हैं पानी देने के नाम पर, यह गैरकानूनी है।",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.121,
+    "lng": 72.899,
+    "metadata": {
+      "landmark": "Powai",
+      "note": "corruption_overlap"
+    }
+  },
+  {
+    "id": "cmp_0070",
+    "text": "Ward officer bina paisa liye koi bhi kaam nahi kar raha, complaint file karne ke bawajood koi solution nahi mila.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0071",
+    "text": "Road construction debris left on the side of Ghodbunder road for weeks, blocking one full lane.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_0072",
+    "text": "Builder ne setback area encroach kar liya hai, fire truck ke liye rasta hi nahi bacha society mein.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.156,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0073",
+    "text": "Encroachment by hawkers on footpath near station has made it impossible for pedestrians to walk safely.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Bandra Station"
+    }
+  },
+  {
+    "id": "cmp_0074",
+    "text": "Naye connection ke liye application diye 2 mahine ho gaye, koi response nahi aa raha electricity board se.",
+    "expected_category": "electricity",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0075",
+    "text": "Drainage line aur peene ke paani ki line same trench mein daali gayi hai construction ke time, health hazard hai yeh.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.048,
+    "lng": 72.8355
+  },
+  {
+    "id": "cmp_0076",
+    "text": "पीने के पानी में मिट्टी और कीड़े आ रहे हैं नल से, इलाके में सब परेशान हैं।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.038,
+    "lng": 72.856
+  },
+  {
+    "id": "cmp_0077",
+    "text": "Commercial shop illegally built encroaching on footpath, pedestrians forced to walk on the road now.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0078",
+    "text": "नगरसेवक का कार्यालय हफ्तों से बंद है, शिकायत लेकर कोई सुनने वाला नहीं है वहां।",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0079",
+    "text": "Construction site working past midnight generating heavy noise, violating norms, need immediate action.",
+    "expected_category": "noise",
+    "expected_urgency": "medium",
+    "lat": 19.178,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0080",
+    "text": "Water tanker comes only once a week in our slum area, not enough for a family of six.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_0081",
+    "text": "Sabzi mandi ke baad roz raat ko bahut kachra reh jaata hai, subah tak koi uthata nahi.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.842,
+    "metadata": {
+      "landmark": "Dadar Market"
+    }
+  },
+  {
+    "id": "cmp_0082",
+    "text": "Divyang logon ke liye ramp nahi hai footpath pe, wheelchair use karne walon ko bahut problem hoti hai.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0544,
+    "lng": 72.8402
+  },
+  {
+    "id": "cmp_0083",
+    "text": "Rumours spreading that the local lake water is unsafe due to a chemical leak, no official statement issued yet causing fear.",
+    "expected_category": "misinformation",
+    "expected_urgency": "medium",
+    "lat": 19.1176,
+    "lng": 72.906,
+    "metadata": {
+      "landmark": "Powai Lake"
+    }
+  },
+  {
+    "id": "cmp_0084",
+    "text": "Local vendors are dumping waste oil directly into the storm drain, causing blockage and pollution.",
+    "expected_category": "sanitation",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.871
+  },
+  {
+    "id": "cmp_0085",
+    "text": "New pipeline work cut off water supply completely without any prior notice to residents.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0086",
+    "text": "Kachre ki gaadi society ke andar aati hi nahi hai, hume khud bahar tak kachra le jaana padta hai.",
+    "expected_category": "garbage",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0087",
+    "text": "हमारी सोसाइटी के पास कचरे का ढेर लगा हुआ है दो हफ्ते से, नगर निगम को कई बार फोन किया पर कोई नहीं आया।",
+    "expected_category": "garbage",
+    "expected_urgency": "high",
+    "lat": 19.156,
+    "lng": 72.841
+  },
+  {
+    "id": "cmp_0088",
+    "text": "Waterlogging every single monsoon at same spot near Hindmata, no permanent drainage solution done till now.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_0089",
+    "text": "Illegal tapping of electricity lines (katiya) visible openly in the slum area, major fire risk during summer.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_0090",
+    "text": "Illegal parking of trucks on residential street blocks entire road every night, ambulance can't pass through.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.156,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0091",
+    "text": "Water logging near railway station subway makes it impassable during high tide combined with rain, people wading through chest deep water.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.043,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Hindmata Subway"
+    }
+  },
+  {
+    "id": "cmp_0092",
+    "text": "Local dance bar/pub operating past permitted hours with loud noise, causing disturbance and safety concerns.",
+    "expected_category": "public_safety",
+    "expected_urgency": "low",
+    "lat": 19.062,
+    "lng": 72.833
+  },
+  {
+    "id": "cmp_0093",
+    "text": "गैरकानूनी तरीके से नाले के ऊपर दुकान बना दी गई है, इससे पानी निकासी रुक जाती है बारिश में।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.038,
+    "lng": 72.871,
+    "metadata": {
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_0094",
+    "text": "Property tax paid online but receipt not generated, portal showing error since a week, need help.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.145,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0095",
+    "text": "Complaint about illegal slaughterhouse operating in residential zone causing foul smell and health hazards.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.043,
+    "lng": 72.871
+  },
+  {
+    "id": "cmp_0096",
+    "text": "Construction waste dumped illegally on empty plot next to our building, breeding mosquitoes now.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.86
+  },
+  {
+    "id": "cmp_0097",
+    "text": "बिजली का बिल दोगुना आया है बिना किसी वजह के, मीटर चेक करने की मांग की पर कोई नहीं आया।",
+    "expected_category": "electricity",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0098",
+    "text": "कचरा गाड़ी रोज नहीं आती हमारी गली में, कूड़ा सड़क पर पड़ा रहता है।",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "landmark": "Kandivali West"
+    }
+  },
+  {
+    "id": "cmp_0099",
+    "text": "Manhole ka cover missing hai road ke beech mein, raat ko koi gir sakta hai, please fix asap.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1418,
+    "lng": 72.8397
+  },
+  {
+    "id": "cmp_0100",
+    "text": "Streetlight khambha road ke beech mein gir gaya hai, bahut dangerous hai for two wheelers at night.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1663,
+    "lng": 72.8526,
+    "metadata": {
+      "landmark": "Malad West"
+    }
+  },
+  {
+    "id": "cmp_0101",
+    "text": "Local train announcement system not working at our station, passengers missing platform changes.",
+    "expected_category": "public_transport",
+    "expected_urgency": "medium",
+    "lat": 19.1197,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Andheri Station"
+    }
+  },
+  {
+    "id": "cmp_0102",
+    "text": "No water supply in our building for the last 3 days, tanker bhi nahi aaya, please look into this urgently.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.8856,
+    "metadata": {
+      "landmark": "Kurla West"
+    }
+  },
+  {
+    "id": "cmp_0103",
+    "text": "Ghatkopar bridge ke neeche wali road bahut kharab hai, truck ke tyre phat jaate hain gaddon mein.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0864,
+    "lng": 72.9081
+  },
+  {
+    "id": "cmp_0104",
+    "text": "Zebra crossing paint completely faded near junction, cars don't stop for pedestrians anymore.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0176,
+    "lng": 72.8562
+  },
+  {
+    "id": "cmp_0105",
+    "text": "Exposed wiring near bus stop is extremely dangerous, especially during rains, could electrocute someone.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.863,
+    "metadata": {
+      "landmark": "Khar"
+    }
+  },
+  {
+    "id": "cmp_0106",
+    "text": "Kisi ne road ke beech mein construction material daal rakha hai kai dino se, traffic ekdum slow ho gaya hai.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0107",
+    "text": "Transformer se awaaz aa rahi hai lagatar aur dhuan bhi nikal raha tha kal raat, please check karo.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0108",
+    "text": "रात 12 बजे तक DJ बजता है शादी के नाम पर, बच्चों की पढ़ाई खराब हो रही है।",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.856
+  },
+  {
+    "id": "cmp_0109",
+    "text": "Huge pothole near Andheri subway causing daily traffic jams and bike accidents. Please fix urgently before monsoon gets worse.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "landmark": "Andheri Subway"
+    }
+  },
+  {
+    "id": "cmp_0110",
+    "text": "A WhatsApp forward is spreading that tap water in our ward has been poisoned, causing panic, please issue an official clarification.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0111",
+    "text": "Garbage not collected from our lane for 5 days now, smell is unbearable and stray dogs are scattering it everywhere.",
+    "expected_category": "garbage",
+    "expected_urgency": "high",
+    "lat": 19.055,
+    "lng": 72.829,
+    "metadata": {
+      "landmark": "Bandra West"
+    }
+  },
+  {
+    "id": "cmp_0112",
+    "text": "Officials taking money for approving illegal hoardings around the station, clear violation of rules.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.0596,
+    "lng": 72.842
+  },
+  {
+    "id": "cmp_0113",
+    "text": "Bahut zyada machar ho gaye hain nale ke pass, dengue/malaria ka khatra badh gaya hai poore mohalle mein.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.885
+  },
+  {
+    "id": "cmp_0114",
+    "text": "मंदिर के नाम पर सड़क पर अवैध कब्ज़ा कर लिया गया है, ट्रैफिक जाम होता है रोज़।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.885
+  },
+  {
+    "id": "cmp_0115",
+    "text": "Injured stray dog lying near the bus stop for 2 days, needs medical help, nobody from animal welfare came.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.842
+  },
+  {
+    "id": "cmp_0116",
+    "text": "Kachra van waqt pe nahi aati, log road pe hi kachra fek dete hain, bahut badbu hoti hai.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.081,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0117",
+    "text": "बंदरों का झुंड घरों में घुस रहा है, खाना और सामान उठा ले जाते हैं, बच्चों को डर लगता है।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.1197,
+    "lng": 72.906,
+    "metadata": {
+      "landmark": "Powai"
+    }
+  },
+  {
+    "id": "cmp_0118",
+    "text": "Power cut since morning in our whole locality, no ETA given by electricity department, please restore soon.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.145,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0119",
+    "text": "Illegal hoardings blocking traffic signal visibility at a busy intersection, causing near misses daily.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.863
+  },
+  {
+    "id": "cmp_0120",
+    "text": "Loudspeaker se bahut tez awaaz aati hai roz raat ko function ke naam pe, neighbours ko so nahi paate.",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0121",
+    "text": "CCTV cameras installed 2 years ago near market are not working at all, felt unsafe during evening.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.178,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0122",
+    "text": "Dead animal lying on the roadside near market for 2 days, nobody from municipal corp came to remove it.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.949,
+    "metadata": {
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_0123",
+    "text": "बिना अनुमति के तीन मंजिल का अवैध निर्माण चल रहा है, आसपास की इमारतों को खतरा है।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.2,
+    "lng": 72.848
+  },
+  {
+    "id": "cmp_0124",
+    "text": "Massive pothole caused a two-wheeler accident yesterday night, rider was injured, this needs urgent BMC attention.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.087,
+    "lng": 72.8397
+  },
+  {
+    "id": "cmp_0125",
+    "text": "Bina railing wale bridge se bachhe school jaate hain roz, koi bhi gir sakta hai, please railing lagwaye.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.048,
+    "lng": 72.899,
+    "metadata": {
+      "landmark": "Chembur"
+    }
+  },
+  {
+    "id": "cmp_0126",
+    "text": "Awaara kutte raat ko bahut bhaunkte hain aur log ko peeche daudte hain, area mein khauf ka mahaul hai.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.045,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0127",
+    "text": "बांद्रा वरळी सी लिंक जाने वाले रोड पर बड़ा गड्ढा है, पिछले हफ्ते दो एक्सीडेंट हो चुके हैं।",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Worli"
+    }
+  },
+  {
+    "id": "cmp_0128",
+    "text": "Borewell water in our society has turned yellowish and smells bad, worried about contamination.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.2,
+    "lng": 72.8493
+  },
+  {
+    "id": "cmp_0129",
+    "text": "Ward office ke bahar bahut lambi line lagti hai document verification ke liye, ek hi counter khula rehta hai.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.0748,
+    "lng": 72.856
+  },
+  {
+    "id": "cmp_0130",
+    "text": "बिल्डिंग के पास लगातार पानी लीक हो रहा है सड़क पर, road slippery ho gaya hai, accident ho sakta hai.",
+    "expected_category": "water",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0131",
+    "text": "Overhead tank ki safai kai mahino se nahi hui hai, paani mein kide dikh rahe hain.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0132",
+    "text": "Ambulance response time is over 40 minutes in our locality, this delay could cost lives in emergencies.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.949,
+    "metadata": {
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_0133",
+    "text": "Bahut din se yeh road repair ke naam pe khodi hui hai, koi kaam nahi ho raha, sirf barricades lagaye hain.",
+    "expected_category": "road",
+    "expected_urgency": "low",
+    "lat": 19.0522,
+    "lng": 72.8994
+  },
+  {
+    "id": "cmp_0134",
+    "text": "Illegal speed breakers banaye gaye hain local logo ne bina permission, bahut jerk lagta hai bikes ko.",
+    "expected_category": "road",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Mira Road"
+    }
+  },
+  {
+    "id": "cmp_0135",
+    "text": "सोशल मीडिया पर अफवाह फैली है कि इलाके में महामारी फैल रही है, कृपया सही जानकारी दें।",
+    "expected_category": "misinformation",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0136",
+    "text": "स्कूल के पास आवारा कुत्तों का झुंड बहुत आक्रामक हो गया है, अभिभावक डरे हुए हैं।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.048,
+    "lng": 72.899
+  },
+  {
+    "id": "cmp_0137",
+    "text": "नाली का पानी सीधा घर के सामने बहता है, बहुत बदबू आती है, बच्चे बीमार पड़ रहे हैं।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_0138",
+    "text": "Society gate ke pass streetlight kaam nahi karti 3 hafte se, security guard ko bhi problem hoti hai raat mein.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.178,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0139",
+    "text": "Mosquito menace has increased drastically after monsoon, fogging not done in our area for over a month.",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.156,
+    "lng": 72.829
+  },
+  {
+    "id": "cmp_0140",
+    "text": "Illegal cable wires hanging dangerously low across the lane, kids on rickshaws almost got caught in them.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871
+  },
+  {
+    "id": "cmp_0141",
+    "text": "Speed breaker not visible at night near school zone, no paint or reflectors, kids cross this road daily.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.0728,
+    "lng": 72.8826
+  },
+  {
+    "id": "cmp_0142",
+    "text": "Public toilet near station is in extremely dirty condition, no water, no lights, unusable for women.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "landmark": "Bandra Station"
+    }
+  },
+  {
+    "id": "cmp_0143",
+    "text": "पार्क में लाइट नहीं है शाम के बाद, morning walkers ko andhere mein chalna padta hai.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.187,
+    "lng": 72.859
+  },
+  {
+    "id": "cmp_0144",
+    "text": "रेलवे स्टेशन के बाहर फेरीवालों ने पूरा फुटपाथ घेर रखा है, पैदल चलना मुश्किल हो गया है।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8397,
+    "metadata": {
+      "landmark": "Bandra Station"
+    }
+  },
+  {
+    "id": "cmp_0145",
+    "text": "Public garden equipment is broken and rusted, unsafe for children to play, needs urgent repair.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.055,
+    "lng": 72.863
+  },
+  {
+    "id": "cmp_0146",
+    "text": "Stormwater drain construction incomplete before monsoon started, our entire lane floods within 30 mins of rain.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.885,
+    "metadata": {
+      "landmark": "Sion-Dharavi"
+    }
+  },
+  {
+    "id": "cmp_0147",
+    "text": "Illegal hoarding collapsed partially during storm, still hanging dangerously over the footpath, nobody removed it yet.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.871
+  },
+  {
+    "id": "cmp_0148",
+    "text": "Street dogs ka sterilization camp bahut time se nahi laga hamare area mein, population bahut badh gayi hai.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "low",
+    "lat": 19.187,
+    "lng": 72.839
+  },
+  {
+    "id": "cmp_0149",
+    "text": "बार-बार लाइट जा रही है शाम को, transformer से चिंगारी निकलती दिखी कल।",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.199,
+    "lng": 72.839,
+    "metadata": {
+      "landmark": "Borivali"
+    }
+  },
+  {
+    "id": "cmp_0150",
+    "text": "Local contractor overbilling for road work that was never actually completed, need audit of this project.",
+    "expected_category": "corruption",
+    "expected_urgency": "high",
+    "lat": 19.166,
+    "lng": 72.839
+  }, 
+  {
+    "id": "cmp_i_0001",
+    "text": "आमच्या गल्लीत गेल्या आठवड्यापासून पाणीपुरवठा झालेला नाही, कृपया लवकर लक्ष द्या.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0002",
+    "text": "रस्त्यावर मोठा खड्डा पडला आहे, त्यामुळे रोज अपघात होत आहेत.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0003",
+    "text": "कचरा गाडी आमच्या भागात रोज येत नाही, कचरा रस्त्यावर साचला आहे.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0004",
+    "text": "रस्त्यावरील दिवे गेल्या दोन आठवड्यांपासून बंद आहेत, रात्री खूप अंधार असतो.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0005",
+    "text": "गटार तुंबले आहे आणि घाण पाणी रस्त्यावर वाहत आहे, दुर्गंधी सुटली आहे.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0006",
+    "text": "मोकाट कुत्र्यांचा त्रास वाढला आहे, शाळेजवळ मुलांना चावा घेतला.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0007",
+    "text": "बेकायदेशीर बांधकाम सुरू आहे परवानगीशिवाय, महानगरपालिकेने त्वरित कारवाई करावी.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0008",
+    "text": "रस्त्यावर उघडे मॅनहोल आहे, रात्री कोणीतरी पडू शकते, कृपया झाकण बसवा.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0009",
+    "text": "वार्ड ऑफिसमध्ये लाच घेतल्याशिवाय काम होत नाही, ही तक्रार अनेक वेळा दिली आहे.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0010",
+    "text": "सोशल मीडियावर अफवा पसरली आहे की पाण्यात विष मिसळले आहे, कृपया अधिकृत खुलासा करा.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0011",
+    "text": "रात्री उशिरापर्यंत लाऊडस्पीकरचा आवाज येतो, लहान मुलांची झोप खराब होते.",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0012",
+    "text": "बागेतील खेळणी तुटलेली आहेत आणि गंज चढला आहे, मुलांना इजा होण्याची भीती आहे.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0013",
+    "text": "सरकारी दवाखान्यात डॉक्टर वेळेवर येत नाहीत, रुग्णांना खूप त्रास होतो.",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0014",
+    "text": "बस स्टॉपचे शेड तुटले आहे, पावसात प्रवाशांना भिजावे लागते.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0015",
+    "text": "नगरसेवकांचे कार्यालय बहुतेक वेळा बंद असते, तक्रार ऐकायला कोणी नसते.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0016",
+    "text": "पाण्याची पाईपलाईन फुटली आहे, हजारो लिटर पाणी वाया जात आहे रोज.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0017",
+    "text": "फूटपाथवरील टाईल्स उखडल्या आहेत, ज्येष्ठ नागरिकांना चालणे कठीण झाले आहे.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0018",
+    "text": "सार्वजनिक शौचालयात पाणी नाही आणि खूप घाण आहे, महिलांना वापरणे अवघड आहे.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0019",
+    "text": "ट्रान्सफॉर्मरमधून ठिणग्या येत होत्या काल रात्री, कृपया त्वरित तपासा.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0020",
+    "text": "बिल्डिंगमध्ये अनधिकृत मजला बांधला जात आहे, संरचना असुरक्षित वाटते.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0021",
+    "text": "मोकाट गुरे मुख्य रस्त्यावर फिरत असतात, त्यामुळे संध्याकाळी अपघात होतात.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0022",
+    "text": "रस्त्याचे काम तीन महिन्यांपासून अर्धवट पडून आहे, बॅरिकेड्स तसेच आहेत.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0023",
+    "text": "मालमत्ता कराची पावती देण्यासाठी एजंट जास्त पैसे मागत आहे.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0024",
+    "text": "डेंग्यूचे रुग्ण वाढत आहेत पण फॉगिंग गाडी महिनाभर आलेली नाही.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0025",
+    "text": "रस्त्याच्या कडेला बांधकामाचा राडारोडा अनेक आठवडे पडून आहे, एक लेन बंद झाली आहे.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0026",
+    "text": "इमारतीचे अग्निसुरक्षा साहित्य दोन वर्षांपूर्वी एक्सपायर झाले आहे, सोसायटी नूतनीकरण करत नाही.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0027",
+    "text": "गणपती विसर्जनानंतर तलावात प्लास्टिक आणि कचरा साचला आहे, मासे मरत आहेत.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0028",
+    "text": "रेशन दुकानदार कमी धान्य देतो आणि जास्त पैसे घेतो, तक्रार करूनही काही झाले नाही.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0029",
+    "text": "रस्त्यावर पाणी साचते हलक्या पावसातही, ड्रेनेजची कायमची व्यवस्था झालेली नाही.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0030",
+    "text": "गॅस सिलेंडर वितरक जास्त किंमत आकारत आहे अधिकृत दरापेक्षा, कारवाई व्हावी.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "mr",
+      "language_name": "Marathi"
+    }
+  },
+  {
+    "id": "cmp_i_0031",
+    "text": "અમારા વિસ્તારમાં છેલ્લા ત્રણ દિવસથી પાણી આવતું નથી, કૃપા કરી ધ્યાન આપો.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0032",
+    "text": "રસ્તા પર મોટો ખાડો પડ્યો છે, રોજ અકસ્માત થાય છે તેના કારણે.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0033",
+    "text": "કચરાની ગાડી અમારી ગલીમાં નિયમિત આવતી નથી, કચરો રસ્તા પર પડ્યો રહે છે.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0034",
+    "text": "સ્ટ્રીટ લાઈટ છેલ્લા બે અઠવાડિયાથી બંધ છે, રાત્રે ખૂબ અંધારું રહે છે.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0035",
+    "text": "ગટરનું પાણી રસ્તા પર ઉભરાય છે, દુર્ગંધ અસહ્ય છે.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0036",
+    "text": "રખડતા કૂતરાઓનો ત્રાસ વધી ગયો છે, શાળા પાસે બાળકોને બચકું ભર્યું.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0037",
+    "text": "પરવાનગી વગર ગેરકાયદેસર બાંધકામ ચાલી રહ્યું છે, તાત્કાલિક કાર્યવાહી કરો.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0038",
+    "text": "રસ્તા વચ્ચે ખુલ્લું મેનહોલ છે, રાત્રે કોઈ પડી શકે છે.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0039",
+    "text": "વોર્ડ ઓફિસમાં લાંચ આપ્યા વગર કોઈ કામ થતું નથી.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0040",
+    "text": "સોશિયલ મીડિયા પર અફવા ફેલાઈ છે કે પાણીમાં ઝેર ભેળવવામાં આવ્યું છે, કૃપા કરી સ્પષ્ટતા આપો.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0041",
+    "text": "રાત્રે મોડે સુધી લાઉડસ્પીકર વાગે છે, બાળકોની ઊંઘ બગડે છે.",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0042",
+    "text": "બગીચામાં રમકડાં તૂટેલાં છે અને કાટ લાગી ગયો છે, બાળકોને ઈજા થવાનો ડર છે.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0043",
+    "text": "સરકારી દવાખાનામાં ડોક્ટર સમયસર આવતા નથી, દર્દીઓને ખૂબ તકલીફ પડે છે.",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0044",
+    "text": "બસ સ્ટોપનું શેડ તૂટેલું છે, વરસાદમાં મુસાફરોને પલળવું પડે છે.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0045",
+    "text": "કોર્પોરેટરની ઓફિસ મોટાભાગે બંધ રહે છે, ફરિયાદ સાંભળનાર કોઈ નથી.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0046",
+    "text": "પાણીની પાઈપલાઈન ફાટી ગઈ છે, રોજ હજારો લિટર પાણી બગડે છે.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0047",
+    "text": "ફૂટપાથની ટાઈલ્સ ઉખડી ગઈ છે, વૃદ્ધોને ચાલવામાં તકલીફ પડે છે.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0048",
+    "text": "જાહેર શૌચાલયમાં પાણી નથી અને ખૂબ ગંદકી છે, મહિલાઓ માટે વાપરવું મુશ્કેલ છે.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0049",
+    "text": "ટ્રાન્સફોર્મરમાંથી ગઈકાલે રાત્રે તણખા નીકળતા હતા, કૃપા કરી તાત્કાલિક તપાસો.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0050",
+    "text": "બિલ્ડિંગમાં ગેરકાયદેસર માળ બાંધવામાં આવી રહ્યો છે, બાંધકામ અસુરક્ષિત લાગે છે.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0051",
+    "text": "રખડતાં ઢોર મુખ્ય રસ્તા પર ફરે છે, સાંજે અકસ્માત થાય છે તેના કારણે.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0052",
+    "text": "રસ્તાનું કામ ત્રણ મહિનાથી અધૂરું પડ્યું છે, બેરિકેડ્સ એમ જ છે.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0053",
+    "text": "મિલકત વેરાની રસીદ આપવા માટે એજન્ટ વધારે પૈસા માંગે છે.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0054",
+    "text": "ડેન્ગ્યુના કેસ વધી રહ્યા છે પણ ફોગિંગ ગાડી મહિનાથી આવી નથી.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0055",
+    "text": "રસ્તાની બાજુમાં બાંધકામનો કાટમાળ અઠવાડિયાઓથી પડ્યો છે, એક લેન બંધ થઈ ગઈ છે.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0056",
+    "text": "ઈમારતનું ફાયર સેફ્ટી સાધન બે વર્ષ પહેલાં એક્સપાયર થઈ ગયું છે.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0057",
+    "text": "તળાવમાં પ્લાસ્ટિક અને કચરો ભરાઈ ગયો છે, માછલીઓ મરી રહી છે.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0058",
+    "text": "રેશન દુકાનદાર ઓછું અનાજ આપે છે અને વધારે પૈસા લે છે.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0059",
+    "text": "થોડોક વરસાદ પડે તો પણ રસ્તા પર પાણી ભરાઈ જાય છે, કાયમી ડ્રેનેજ વ્યવસ્થા નથી.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0060",
+    "text": "ગેસ સિલિન્ડર ડિલિવરી કરનાર સત્તાવાર ભાવ કરતાં વધારે પૈસા લે છે.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "gu",
+      "language_name": "Gujarati"
+    }
+  },
+  {
+    "id": "cmp_i_0061",
+    "text": "আমাদের এলাকায় গত তিন দিন ধরে জল সরবরাহ নেই, দয়া করে দ্রুত ব্যবস্থা নিন।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0062",
+    "text": "রাস্তায় বড় গর্ত হয়ে গেছে, প্রতিদিন দুর্ঘটনা ঘটছে এর জন্য।",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0063",
+    "text": "আমাদের গলিতে আবর্জনার গাড়ি নিয়মিত আসে না, রাস্তায় ময়লা জমে আছে।",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0064",
+    "text": "রাস্তার বাতি গত দুই সপ্তাহ ধরে বন্ধ, রাতে খুব অন্ধকার থাকে।",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0065",
+    "text": "নর্দমার জল রাস্তায় উপচে পড়ছে, দুর্গন্ধ সহ্য করা যাচ্ছে না।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0066",
+    "text": "বেওয়ারিশ কুকুরের উৎপাত বেড়ে গেছে, স্কুলের কাছে বাচ্চাদের কামড়েছে।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0067",
+    "text": "অনুমতি ছাড়াই বেআইনি নির্মাণ কাজ চলছে, দ্রুত ব্যবস্থা নেওয়া হোক।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0068",
+    "text": "রাস্তার মাঝখানে ম্যানহোল খোলা আছে, রাতে কেউ পড়ে যেতে পারে।",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0069",
+    "text": "ওয়ার্ড অফিসে ঘুষ না দিলে কোনো কাজ হয় না।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0070",
+    "text": "সোশ্যাল মিডিয়ায় গুজব ছড়াচ্ছে যে জলে বিষ মেশানো হয়েছে, দয়া করে সরকারিভাবে স্পষ্ট করুন।",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0071",
+    "text": "রাতে দেরি পর্যন্ত লাউডস্পিকার বাজে, বাচ্চাদের ঘুমের সমস্যা হয়।",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0072",
+    "text": "পার্কের খেলনাগুলো ভাঙা এবং মরচে ধরেছে, বাচ্চাদের চোট লাগার ভয় আছে।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0073",
+    "text": "সরকারি হাসপাতালে ডাক্তার সময়মতো আসেন না, রোগীদের খুব কষ্ট হয়।",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0074",
+    "text": "বাস স্টপের শেড ভাঙা, বৃষ্টিতে যাত্রীদের ভিজে যেতে হয়।",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0075",
+    "text": "কাউন্সিলরের অফিস বেশিরভাগ সময় বন্ধ থাকে, অভিযোগ শোনার কেউ নেই।",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0076",
+    "text": "জলের পাইপলাইন ফেটে গেছে, প্রতিদিন হাজার হাজার লিটার জল নষ্ট হচ্ছে।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0077",
+    "text": "ফুটপাতের টাইলস উঠে গেছে, বয়স্কদের হাঁটতে খুব অসুবিধা হচ্ছে।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0078",
+    "text": "পাবলিক টয়লেটে জল নেই এবং খুব নোংরা, মহিলাদের ব্যবহার করা কঠিন।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0079",
+    "text": "গতকাল রাতে ট্রান্সফরমার থেকে আগুনের ফুলকি বেরোচ্ছিল, দয়া করে দ্রুত পরীক্ষা করুন।",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0080",
+    "text": "বিল্ডিংয়ে অনুমতি ছাড়া নতুন তলা তৈরি হচ্ছে, কাঠামো অনিরাপদ মনে হচ্ছে।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0081",
+    "text": "রাস্তায় গরু-মহিষ ঘুরে বেড়ায়, সন্ধ্যাবেলা দুর্ঘটনা ঘটে এর জন্য।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0082",
+    "text": "রাস্তার কাজ তিন মাস ধরে অসম্পূর্ণ পড়ে আছে, ব্যারিকেড এখনো সরানো হয়নি।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0083",
+    "text": "সম্পত্তি করের রসিদ দেওয়ার জন্য এজেন্ট বেশি টাকা চাইছে।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0084",
+    "text": "ডেঙ্গুর রোগী বাড়ছে কিন্তু ফগিং গাড়ি এক মাস ধরে আসেনি।",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0085",
+    "text": "রাস্তার পাশে নির্মাণ সামগ্রীর ধ্বংসাবশেষ কয়েক সপ্তাহ ধরে পড়ে আছে, একটি লেন বন্ধ হয়ে গেছে।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0086",
+    "text": "বিল্ডিংয়ের ফায়ার সেফটি যন্ত্রপাতি দুই বছর আগে মেয়াদ শেষ হয়ে গেছে।",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0087",
+    "text": "পুকুরে প্লাস্টিক এবং আবর্জনা জমে গেছে, মাছ মারা যাচ্ছে।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0088",
+    "text": "রেশন দোকানদার কম শস্য দেয় এবং বেশি টাকা নেয়।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0089",
+    "text": "সামান্য বৃষ্টিতেও রাস্তায় জল জমে যায়, স্থায়ী নিকাশি ব্যবস্থা নেই।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0090",
+    "text": "গ্যাস সিলিন্ডার সরবরাহকারী সরকারি দামের চেয়ে বেশি টাকা নিচ্ছে।",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "bn",
+      "language_name": "Bengali"
+    }
+  },
+  {
+    "id": "cmp_i_0091",
+    "text": "ਸਾਡੇ ਇਲਾਕੇ ਵਿੱਚ ਪਿਛਲੇ ਤਿੰਨ ਦਿਨਾਂ ਤੋਂ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਜਲਦੀ ਧਿਆਨ ਦਿਓ।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0092",
+    "text": "ਸੜਕ ਤੇ ਵੱਡਾ ਟੋਆ ਪੈ ਗਿਆ ਹੈ, ਰੋਜ਼ ਹਾਦਸੇ ਹੋ ਰਹੇ ਹਨ ਇਸ ਕਾਰਨ।",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0093",
+    "text": "ਸਾਡੀ ਗਲੀ ਵਿੱਚ ਕੂੜੇ ਵਾਲੀ ਗੱਡੀ ਰੋਜ਼ ਨਹੀਂ ਆਉਂਦੀ, ਕੂੜਾ ਸੜਕ ਤੇ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0094",
+    "text": "ਸਟਰੀਟ ਲਾਈਟ ਪਿਛਲੇ ਦੋ ਹਫ਼ਤਿਆਂ ਤੋਂ ਬੰਦ ਹੈ, ਰਾਤ ਨੂੰ ਬਹੁਤ ਹਨੇਰਾ ਰਹਿੰਦਾ ਹੈ।",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0095",
+    "text": "ਨਾਲੀ ਦਾ ਪਾਣੀ ਸੜਕ ਤੇ ਵਹਿ ਰਿਹਾ ਹੈ, ਬਦਬੂ ਬਰਦਾਸ਼ਤ ਨਹੀਂ ਹੋ ਰਹੀ।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0096",
+    "text": "ਅਵਾਰਾ ਕੁੱਤਿਆਂ ਦਾ ਖ਼ਤਰਾ ਵਧ ਗਿਆ ਹੈ, ਸਕੂਲ ਕੋਲ ਬੱਚਿਆਂ ਨੂੰ ਵੱਢ ਲਿਆ।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0097",
+    "text": "ਬਿਨਾਂ ਇਜਾਜ਼ਤ ਗੈਰ-ਕਾਨੂੰਨੀ ਉਸਾਰੀ ਹੋ ਰਹੀ ਹੈ, ਜਲਦੀ ਕਾਰਵਾਈ ਕੀਤੀ ਜਾਵੇ।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0098",
+    "text": "ਸੜਕ ਦੇ ਵਿਚਕਾਰ ਮੈਨਹੋਲ ਖੁੱਲ੍ਹਾ ਪਿਆ ਹੈ, ਰਾਤ ਨੂੰ ਕੋਈ ਡਿੱਗ ਸਕਦਾ ਹੈ।",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0099",
+    "text": "ਵਾਰਡ ਦਫ਼ਤਰ ਵਿੱਚ ਰਿਸ਼ਵਤ ਦਿੱਤੇ ਬਿਨਾਂ ਕੋਈ ਕੰਮ ਨਹੀਂ ਹੁੰਦਾ।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0100",
+    "text": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਅਫ਼ਵਾਹ ਫੈਲ ਰਹੀ ਹੈ ਕਿ ਪਾਣੀ ਵਿੱਚ ਜ਼ਹਿਰ ਮਿਲਾਇਆ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਸਪਸ਼ਟੀਕਰਨ ਦਿਓ।",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0101",
+    "text": "ਰਾਤ ਨੂੰ ਦੇਰ ਤੱਕ ਲਾਊਡਸਪੀਕਰ ਵੱਜਦਾ ਹੈ, ਬੱਚਿਆਂ ਦੀ ਨੀਂਦ ਖਰਾਬ ਹੁੰਦੀ ਹੈ।",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0102",
+    "text": "ਬਾਗ ਵਿੱਚ ਖੇਡਣ ਵਾਲੇ ਸਾਮਾਨ ਟੁੱਟੇ ਹੋਏ ਹਨ ਅਤੇ ਜੰਗਾਲ ਲੱਗ ਗਿਆ ਹੈ, ਬੱਚਿਆਂ ਨੂੰ ਸੱਟ ਲੱਗਣ ਦਾ ਡਰ ਹੈ।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0103",
+    "text": "ਸਰਕਾਰੀ ਹਸਪਤਾਲ ਵਿੱਚ ਡਾਕਟਰ ਸਮੇਂ ਸਿਰ ਨਹੀਂ ਆਉਂਦਾ, ਮਰੀਜ਼ਾਂ ਨੂੰ ਬਹੁਤ ਪਰੇਸ਼ਾਨੀ ਹੁੰਦੀ ਹੈ।",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0104",
+    "text": "ਬੱਸ ਸਟਾਪ ਦੀ ਛੱਤ ਟੁੱਟੀ ਹੋਈ ਹੈ, ਮੀਂਹ ਵਿੱਚ ਸਵਾਰੀਆਂ ਨੂੰ ਭਿੱਜਣਾ ਪੈਂਦਾ ਹੈ।",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0105",
+    "text": "ਕਾਰਪੋਰੇਟਰ ਦਾ ਦਫ਼ਤਰ ਜ਼ਿਆਦਾਤਰ ਬੰਦ ਰਹਿੰਦਾ ਹੈ, ਸ਼ਿਕਾਇਤ ਸੁਣਨ ਵਾਲਾ ਕੋਈ ਨਹੀਂ।",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0106",
+    "text": "ਪਾਣੀ ਦੀ ਪਾਈਪਲਾਈਨ ਫਟ ਗਈ ਹੈ, ਰੋਜ਼ ਹਜ਼ਾਰਾਂ ਲੀਟਰ ਪਾਣੀ ਬਰਬਾਦ ਹੋ ਰਿਹਾ ਹੈ।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0107",
+    "text": "ਫੁੱਟਪਾਥ ਦੀਆਂ ਟਾਈਲਾਂ ਉਖੜ ਗਈਆਂ ਹਨ, ਬਜ਼ੁਰਗਾਂ ਨੂੰ ਤੁਰਨ ਵਿੱਚ ਬਹੁਤ ਦਿੱਕਤ ਆ ਰਹੀ ਹੈ।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0108",
+    "text": "ਪਬਲਿਕ ਟਾਇਲਟ ਵਿੱਚ ਪਾਣੀ ਨਹੀਂ ਹੈ ਅਤੇ ਬਹੁਤ ਗੰਦਗੀ ਹੈ, ਔਰਤਾਂ ਲਈ ਵਰਤਣਾ ਔਖਾ ਹੈ।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0109",
+    "text": "ਕੱਲ੍ਹ ਰਾਤ ਟ੍ਰਾਂਸਫਾਰਮਰ ਵਿੱਚੋਂ ਚੰਗਿਆੜੀਆਂ ਨਿਕਲ ਰਹੀਆਂ ਸਨ, ਕਿਰਪਾ ਕਰਕੇ ਜਲਦੀ ਚੈੱਕ ਕਰੋ।",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0110",
+    "text": "ਬਿਲਡਿੰਗ ਵਿੱਚ ਬਿਨਾਂ ਇਜਾਜ਼ਤ ਨਵੀਂ ਮੰਜ਼ਿਲ ਬਣਾਈ ਜਾ ਰਹੀ ਹੈ, ਢਾਂਚਾ ਅਸੁਰੱਖਿਅਤ ਲੱਗਦਾ ਹੈ।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0111",
+    "text": "ਅਵਾਰਾ ਪਸ਼ੂ ਮੁੱਖ ਸੜਕ ਤੇ ਘੁੰਮਦੇ ਰਹਿੰਦੇ ਹਨ, ਸ਼ਾਮ ਨੂੰ ਹਾਦਸੇ ਹੁੰਦੇ ਹਨ ਇਸ ਕਾਰਨ।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0112",
+    "text": "ਸੜਕ ਦਾ ਕੰਮ ਤਿੰਨ ਮਹੀਨਿਆਂ ਤੋਂ ਅਧੂਰਾ ਪਿਆ ਹੈ, ਬੈਰੀਕੇਡ ਹਾਲੇ ਵੀ ਲੱਗੇ ਹੋਏ ਹਨ।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0113",
+    "text": "ਪ੍ਰਾਪਰਟੀ ਟੈਕਸ ਦੀ ਰਸੀਦ ਦੇਣ ਲਈ ਏਜੰਟ ਜ਼ਿਆਦਾ ਪੈਸੇ ਮੰਗ ਰਿਹਾ ਹੈ।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0114",
+    "text": "ਡੇਂਗੂ ਦੇ ਮਰੀਜ਼ ਵਧ ਰਹੇ ਹਨ ਪਰ ਫੌਗਿੰਗ ਗੱਡੀ ਮਹੀਨੇ ਤੋਂ ਨਹੀਂ ਆਈ।",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0115",
+    "text": "ਸੜਕ ਕਿਨਾਰੇ ਉਸਾਰੀ ਦਾ ਮਲਬਾ ਕਈ ਹਫ਼ਤਿਆਂ ਤੋਂ ਪਿਆ ਹੈ, ਇੱਕ ਲੇਨ ਬੰਦ ਹੋ ਗਈ ਹੈ।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0116",
+    "text": "ਇਮਾਰਤ ਦਾ ਫਾਇਰ ਸੇਫਟੀ ਸਾਮਾਨ ਦੋ ਸਾਲ ਪਹਿਲਾਂ ਖਤਮ ਹੋ ਗਿਆ ਹੈ।",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0117",
+    "text": "ਤਲਾਬ ਵਿੱਚ ਪਲਾਸਟਿਕ ਅਤੇ ਕੂੜਾ ਭਰ ਗਿਆ ਹੈ, ਮੱਛੀਆਂ ਮਰ ਰਹੀਆਂ ਹਨ।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0118",
+    "text": "ਰਾਸ਼ਨ ਦੁਕਾਨਦਾਰ ਘੱਟ ਅਨਾਜ ਦਿੰਦਾ ਹੈ ਅਤੇ ਜ਼ਿਆਦਾ ਪੈਸੇ ਲੈਂਦਾ ਹੈ।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0119",
+    "text": "ਥੋੜ੍ਹੀ ਜਿਹੀ ਬਾਰਿਸ਼ ਵਿੱਚ ਵੀ ਸੜਕ ਤੇ ਪਾਣੀ ਭਰ ਜਾਂਦਾ ਹੈ, ਪੱਕਾ ਨਿਕਾਸ ਪ੍ਰਬੰਧ ਨਹੀਂ ਹੈ।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0120",
+    "text": "ਗੈਸ ਸਿਲੰਡਰ ਸਪਲਾਈ ਕਰਨ ਵਾਲਾ ਸਰਕਾਰੀ ਰੇਟ ਤੋਂ ਵੱਧ ਪੈਸੇ ਲੈ ਰਿਹਾ ਹੈ।",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "pa",
+      "language_name": "Punjabi"
+    }
+  },
+  {
+    "id": "cmp_i_0121",
+    "text": "எங்கள் பகுதியில் கடந்த மூன்று நாட்களாக தண்ணீர் வரவில்லை, உடனடியாக கவனிக்கவும்.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0122",
+    "text": "சாலையில் பெரிய குழி ஏற்பட்டுள்ளது, இதனால் தினமும் விபத்துகள் நடக்கின்றன.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0123",
+    "text": "எங்கள் தெருவில் குப்பை வண்டி தினமும் வரவில்லை, சாலையில் குப்பை குவிந்துள்ளது.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0124",
+    "text": "தெரு விளக்குகள் கடந்த இரண்டு வாரங்களாக அணைந்துள்ளன, இரவில் மிகவும் இருட்டாக இருக்கிறது.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0125",
+    "text": "சாக்கடை நீர் சாலையில் வழிந்துகொண்டிருக்கிறது, துர்நாற்றம் தாங்க முடியவில்லை.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0126",
+    "text": "தெரு நாய்களின் தொல்லை அதிகரித்துள்ளது, பள்ளிக்கு அருகில் குழந்தைகளை கடித்துவிட்டன.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0127",
+    "text": "அனுமதி இல்லாமல் சட்டவிரோத கட்டுமான வேலை நடைபெறுகிறது, உடனடி நடவடிக்கை எடுக்கவும்.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0128",
+    "text": "சாலையின் நடுவில் மேன்ஹோல் திறந்திருக்கிறது, இரவில் யாராவது விழலாம்.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0129",
+    "text": "வார்டு அலுவலகத்தில் லஞ்சம் கொடுக்காமல் எந்த வேலையும் நடைபெறுவதில்லை.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0130",
+    "text": "தண்ணீரில் விஷம் கலக்கப்பட்டதாக சமூக ஊடகங்களில் வதந்தி பரவுகிறது, தயவுசெய்து அதிகாரப்பூர்வமாக தெளிவுபடுத்தவும்.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0131",
+    "text": "இரவு தாமதமாக ஒலிபெருக்கி சத்தம் கேட்கிறது, குழந்தைகளின் தூக்கம் கெடுகிறது.",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0132",
+    "text": "பூங்காவில் உள்ள விளையாட்டு உபகரணங்கள் உடைந்துள்ளன, துருப்பிடித்துவிட்டன, குழந்தைகளுக்கு காயம் ஏற்படும் அபாயம் உள்ளது.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0133",
+    "text": "அரசு மருத்துவமனையில் மருத்துவர் சரியான நேரத்தில் வருவதில்லை, நோயாளிகள் மிகவும் கஷ்டப்படுகிறார்கள்.",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0134",
+    "text": "பேருந்து நிறுத்தத்தின் கூரை உடைந்துள்ளது, மழையில் பயணிகள் நனைய வேண்டியிருக்கிறது.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0135",
+    "text": "கவுன்சிலர் அலுவலகம் பெரும்பாலும் மூடப்பட்டே இருக்கிறது, புகார் கேட்க யாரும் இல்லை.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0136",
+    "text": "தண்ணீர் குழாய் வெடித்துள்ளது, தினமும் ஆயிரக்கணக்கான லிட்டர் தண்ணீர் வீணாகிறது.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0137",
+    "text": "நடைபாதை ஓடுகள் கிளம்பிவிட்டன, முதியவர்கள் நடக்க மிகவும் சிரமப்படுகிறார்கள்.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0138",
+    "text": "பொது கழிப்பறையில் தண்ணீர் இல்லை, மிகவும் அசுத்தமாக உள்ளது, பெண்களுக்கு பயன்படுத்த கடினமாக உள்ளது.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0139",
+    "text": "நேற்று இரவு டிரான்ஸ்பார்மரில் இருந்து தீப்பொறி வந்துகொண்டிருந்தது, உடனடியாக பரிசோதிக்கவும்.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0140",
+    "text": "கட்டிடத்தில் அனுமதியின்றி புதிய மாடி கட்டப்படுகிறது, கட்டமைப்பு பாதுகாப்பற்றதாக தெரிகிறது.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0141",
+    "text": "அலைந்து திரியும் கால்நடைகள் முதன்மை சாலையில் சுற்றித் திரிகின்றன, மாலை நேரத்தில் விபத்துகள் ஏற்படுகின்றன.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0142",
+    "text": "சாலை பணி மூன்று மாதங்களாக முடிக்கப்படாமல் உள்ளது, தடுப்புகள் இன்னும் அப்படியே உள்ளன.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0143",
+    "text": "சொத்து வரி ரசீது கொடுக்க முகவர் அதிக பணம் கேட்கிறார்.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0144",
+    "text": "டெங்கு நோயாளிகள் அதிகரித்து வருகிறார்கள், ஆனால் புகைமூட்ட வண்டி ஒரு மாதமாக வரவில்லை.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0145",
+    "text": "சாலையோரம் கட்டுமான குப்பைகள் பல வாரங்களாக கிடக்கின்றன, ஒரு பாதை மூடப்பட்டுள்ளது.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0146",
+    "text": "கட்டிடத்தின் தீ பாதுகாப்பு உபகரணங்கள் இரண்டு ஆண்டுகளுக்கு முன்பே காலாவதியாகிவிட்டன.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0147",
+    "text": "குளத்தில் பிளாஸ்டிக் மற்றும் குப்பைகள் நிறைந்துள்ளன, மீன்கள் இறந்து கொண்டிருக்கின்றன.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0148",
+    "text": "ரேஷன் கடைக்காரர் குறைவான தானியம் கொடுத்து அதிக பணம் வாங்குகிறார்.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0149",
+    "text": "லேசான மழையிலும் சாலையில் தண்ணீர் தேங்குகிறது, நிரந்தர வடிகால் வசதி இல்லை.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0150",
+    "text": "எரிவாயு சிலிண்டர் வழங்குபவர் அரசு விலையை விட அதிக பணம் வாங்குகிறார்.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "ta",
+      "language_name": "Tamil"
+    }
+  },
+  {
+    "id": "cmp_i_0151",
+    "text": "మా ప్రాంతంలో గత మూడు రోజులుగా నీటి సరఫరా లేదు, దయచేసి వెంటనే దృష్టి పెట్టండి.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0152",
+    "text": "రోడ్డు మీద పెద్ద గొయ్యి పడింది, దీని వల్ల ప్రతిరోజూ ప్రమాదాలు జరుగుతున్నాయి.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0153",
+    "text": "మా వీధిలో చెత్త బండి రోజూ రావడం లేదు, రోడ్డు మీద చెత్త పేరుకుపోయింది.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0154",
+    "text": "వీధి దీపాలు గత రెండు వారాలుగా పనిచేయడం లేదు, రాత్రిపూట చాలా చీకటిగా ఉంటుంది.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0155",
+    "text": "డ్రైనేజీ నీరు రోడ్డు మీదకు పొంగి ప్రవహిస్తోంది, దుర్వాసన భరించలేకపోతున్నాం.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0156",
+    "text": "వీధి కుక్కల బెడద పెరిగింది, స్కూలు దగ్గర పిల్లలను కరిచాయి.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0157",
+    "text": "అనుమతి లేకుండా అక్రమ నిర్మాణం జరుగుతోంది, వెంటనే చర్య తీసుకోవాలి.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0158",
+    "text": "రోడ్డు మధ్యలో మ్యాన్‌హోల్ తెరిచి ఉంది, రాత్రిపూట ఎవరైనా పడిపోవచ్చు.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0159",
+    "text": "వార్డు ఆఫీసులో లంచం ఇవ్వకుండా ఏ పనీ జరగడం లేదు.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0160",
+    "text": "నీటిలో విషం కలిపారని సోషల్ మీడియాలో పుకార్లు వ్యాపిస్తున్నాయి, దయచేసి అధికారికంగా స్పష్టత ఇవ్వండి.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0161",
+    "text": "రాత్రిపూట ఆలస్యంగా లౌడ్‌స్పీకర్ శబ్దం వస్తుంది, పిల్లల నిద్రకు భంగం కలుగుతోంది.",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0162",
+    "text": "పార్కులో ఆట వస్తువులు విరిగిపోయాయి, తుప్పు పట్టాయి, పిల్లలకు గాయాలయ్యే ప్రమాదం ఉంది.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0163",
+    "text": "ప్రభుత్వ ఆసుపత్రిలో డాక్టర్ సకాలంలో రావడం లేదు, రోగులు చాలా ఇబ్బంది పడుతున్నారు.",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0164",
+    "text": "బస్ స్టాప్ షెడ్ విరిగిపోయింది, వర్షంలో ప్రయాణికులు తడవాల్సి వస్తోంది.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0165",
+    "text": "కార్పొరేటర్ ఆఫీసు ఎక్కువ సమయం మూసి ఉంటుంది, ఫిర్యాదు వినేవారు ఎవరూ లేరు.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0166",
+    "text": "నీటి పైప్‌లైన్ పగిలిపోయింది, ప్రతిరోజూ వేల లీటర్ల నీరు వృథా అవుతోంది.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0167",
+    "text": "ఫుట్‌పాత్ టైల్స్ ఊడిపోయాయి, వృద్ధులకు నడవడం చాలా కష్టంగా ఉంది.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0168",
+    "text": "పబ్లిక్ టాయిలెట్‌లో నీళ్లు లేవు, చాలా మురికిగా ఉంది, మహిళలకు వాడటం కష్టంగా ఉంది.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0169",
+    "text": "నిన్న రాత్రి ట్రాన్స్‌ఫార్మర్ నుండి నిప్పు రవ్వలు వస్తున్నాయి, దయచేసి వెంటనే పరిశీలించండి.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0170",
+    "text": "భవనంలో అనుమతి లేకుండా కొత్త అంతస్తు కడుతున్నారు, నిర్మాణం అసురక్షితంగా కనిపిస్తోంది.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0171",
+    "text": "వదిలేసిన పశువులు ప్రధాన రోడ్డు మీద తిరుగుతుంటాయి, సాయంత్రం వేళల్లో ప్రమాదాలు జరుగుతున్నాయి.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0172",
+    "text": "రోడ్డు పని మూడు నెలలుగా అసంపూర్తిగా ఉంది, బారికేడ్లు ఇంకా అలాగే ఉన్నాయి.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0173",
+    "text": "ఆస్తి పన్ను రసీదు ఇవ్వడానికి ఏజెంట్ ఎక్కువ డబ్బు అడుగుతున్నాడు.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0174",
+    "text": "డెంగ్యూ కేసులు పెరుగుతున్నాయి కానీ ఫాగింగ్ వాహనం నెల రోజులుగా రాలేదు.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0175",
+    "text": "రోడ్డు పక్కన నిర్మాణ వ్యర్థాలు వారాలుగా పడి ఉన్నాయి, ఒక లేన్ మూసుకుపోయింది.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0176",
+    "text": "భవనం అగ్నిమాపక పరికరాలు రెండేళ్ల క్రితమే గడువు ముగిసింది.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0177",
+    "text": "చెరువులో ప్లాస్టిక్ మరియు చెత్త నిండిపోయింది, చేపలు చనిపోతున్నాయి.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0178",
+    "text": "రేషన్ దుకాణదారుడు తక్కువ ధాన్యం ఇచ్చి ఎక్కువ డబ్బు వసూలు చేస్తున్నాడు.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0179",
+    "text": "కొద్దిపాటి వర్షానికే రోడ్డు మీద నీరు నిలిచిపోతుంది, శాశ్వత డ్రైనేజీ వ్యవస్థ లేదు.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0180",
+    "text": "గ్యాస్ సిలిండర్ సరఫరాదారు ప్రభుత్వ ధర కంటే ఎక్కువ డబ్బు వసూలు చేస్తున్నాడు.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "te",
+      "language_name": "Telugu"
+    }
+  },
+  {
+    "id": "cmp_i_0181",
+    "text": "ನಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿ ಕಳೆದ ಮೂರು ದಿನಗಳಿಂದ ನೀರು ಪೂರೈಕೆ ಇಲ್ಲ, ದಯವಿಟ್ಟು ತಕ್ಷಣ ಗಮನಹರಿಸಿ.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0182",
+    "text": "ರಸ್ತೆಯಲ್ಲಿ ದೊಡ್ಡ ಗುಂಡಿ ಬಿದ್ದಿದೆ, ಇದರಿಂದಾಗಿ ಪ್ರತಿದಿನ ಅಪಘಾತಗಳು ಆಗುತ್ತಿವೆ.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0183",
+    "text": "ನಮ್ಮ ಗಲ್ಲಿಯಲ್ಲಿ ಕಸದ ಗಾಡಿ ಪ್ರತಿದಿನ ಬರುವುದಿಲ್ಲ, ರಸ್ತೆಯಲ್ಲಿ ಕಸ ಸಂಗ್ರಹವಾಗಿದೆ.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0184",
+    "text": "ಬೀದಿ ದೀಪಗಳು ಕಳೆದ ಎರಡು ವಾರಗಳಿಂದ ಆಫ್ ಆಗಿವೆ, ರಾತ್ರಿ ತುಂಬಾ ಕತ್ತಲಾಗಿರುತ್ತದೆ.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0185",
+    "text": "ಚರಂಡಿ ನೀರು ರಸ್ತೆಯ ಮೇಲೆ ಉಕ್ಕಿ ಹರಿಯುತ್ತಿದೆ, ದುರ್ವಾಸನೆ ತಡೆದುಕೊಳ್ಳಲಾಗುತ್ತಿಲ್ಲ.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0186",
+    "text": "ಬೀದಿ ನಾಯಿಗಳ ಕಾಟ ಹೆಚ್ಚಾಗಿದೆ, ಶಾಲೆಯ ಬಳಿ ಮಕ್ಕಳನ್ನು ಕಚ್ಚಿವೆ.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0187",
+    "text": "ಅನುಮತಿ ಇಲ್ಲದೆ ಅಕ್ರಮ ನಿರ್ಮಾಣ ಕಾರ್ಯ ನಡೆಯುತ್ತಿದೆ, ತಕ್ಷಣ ಕ್ರಮ ಕೈಗೊಳ್ಳಬೇಕು.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0188",
+    "text": "ರಸ್ತೆಯ ಮಧ್ಯದಲ್ಲಿ ಮ್ಯಾನ್‌ಹೋಲ್ ತೆರೆದಿದೆ, ರಾತ್ರಿ ಯಾರಾದರೂ ಬೀಳಬಹುದು.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0189",
+    "text": "ವಾರ್ಡ್ ಕಚೇರಿಯಲ್ಲಿ ಲಂಚ ಕೊಡದೆ ಯಾವುದೇ ಕೆಲಸ ಆಗುವುದಿಲ್ಲ.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0190",
+    "text": "ನೀರಿನಲ್ಲಿ ವಿಷ ಬೆರೆಸಲಾಗಿದೆ ಎಂದು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ವದಂತಿ ಹರಡುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಅಧಿಕೃತವಾಗಿ ಸ್ಪಷ್ಟಪಡಿಸಿ.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0191",
+    "text": "ರಾತ್ರಿ ತಡವಾಗಿ ಲೌಡ್‌ಸ್ಪೀಕರ್ ಶಬ್ದ ಬರುತ್ತದೆ, ಮಕ್ಕಳ ನಿದ್ದೆ ಹಾಳಾಗುತ್ತದೆ.",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0192",
+    "text": "ಉದ್ಯಾನದಲ್ಲಿ ಆಟದ ಸಾಮಾನುಗಳು ಮುರಿದಿವೆ ಮತ್ತು ತುಕ್ಕು ಹಿಡಿದಿವೆ, ಮಕ್ಕಳಿಗೆ ಗಾಯವಾಗುವ ಭಯವಿದೆ.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0193",
+    "text": "ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ವೈದ್ಯರು ಸಮಯಕ್ಕೆ ಬರುವುದಿಲ್ಲ, ರೋಗಿಗಳಿಗೆ ತುಂಬಾ ತೊಂದರೆಯಾಗುತ್ತಿದೆ.",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0194",
+    "text": "ಬಸ್ ನಿಲ್ದಾಣದ ಶೆಡ್ ಮುರಿದಿದೆ, ಮಳೆಯಲ್ಲಿ ಪ್ರಯಾಣಿಕರು ನೆನೆಯಬೇಕಾಗುತ್ತದೆ.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0195",
+    "text": "ಕಾರ್ಪೊರೇಟರ್ ಕಚೇರಿ ಹೆಚ್ಚಿನ ಸಮಯ ಮುಚ್ಚಿರುತ್ತದೆ, ದೂರು ಕೇಳುವವರು ಯಾರೂ ಇಲ್ಲ.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0196",
+    "text": "ನೀರಿನ ಪೈಪ್‌ಲೈನ್ ಒಡೆದಿದೆ, ಪ್ರತಿದಿನ ಸಾವಿರಾರು ಲೀಟರ್ ನೀರು ವ್ಯರ್ಥವಾಗುತ್ತಿದೆ.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0197",
+    "text": "ಫುಟ್‌ಪಾತ್ ಟೈಲ್ಸ್ ಕಿತ್ತು ಹೋಗಿವೆ, ಹಿರಿಯ ನಾಗರಿಕರಿಗೆ ನಡೆಯಲು ತುಂಬಾ ಕಷ್ಟವಾಗುತ್ತಿದೆ.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0198",
+    "text": "ಸಾರ್ವಜನಿಕ ಶೌಚಾಲಯದಲ್ಲಿ ನೀರಿಲ್ಲ, ತುಂಬಾ ಗಲೀಜಾಗಿದೆ, ಮಹಿಳೆಯರಿಗೆ ಬಳಸಲು ಕಷ್ಟವಾಗುತ್ತಿದೆ.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0199",
+    "text": "ನಿನ್ನೆ ರಾತ್ರಿ ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್‌ನಿಂದ ಕಿಡಿಗಳು ಬರುತ್ತಿದ್ದವು, ದಯವಿಟ್ಟು ತಕ್ಷಣ ಪರಿಶೀಲಿಸಿ.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0200",
+    "text": "ಕಟ್ಟಡದಲ್ಲಿ ಅನುಮತಿ ಇಲ್ಲದೆ ಹೊಸ ಮಹಡಿ ಕಟ್ಟಲಾಗುತ್ತಿದೆ, ರಚನೆ ಅಸುರಕ್ಷಿತವಾಗಿ ಕಾಣುತ್ತಿದೆ.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0201",
+    "text": "ಬಿಡಾಡಿ ದನಗಳು ಮುಖ್ಯ ರಸ್ತೆಯಲ್ಲಿ ಸುತ್ತಾಡುತ್ತಿರುತ್ತವೆ, ಸಂಜೆ ಸಮಯದಲ್ಲಿ ಅಪಘಾತಗಳಾಗುತ್ತಿವೆ.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0202",
+    "text": "ರಸ್ತೆ ಕಾಮಗಾರಿ ಮೂರು ತಿಂಗಳಿಂದ ಅಪೂರ್ಣವಾಗಿ ಬಿದ್ದಿದೆ, ಬ್ಯಾರಿಕೇಡ್‌ಗಳು ಇನ್ನೂ ಹಾಗೆಯೇ ಇವೆ.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0203",
+    "text": "ಆಸ್ತಿ ತೆರಿಗೆ ರಸೀದಿ ಕೊಡಲು ಏಜೆಂಟ್ ಹೆಚ್ಚು ಹಣ ಕೇಳುತ್ತಿದ್ದಾನೆ.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0204",
+    "text": "ಡೆಂಗ್ಯೂ ರೋಗಿಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾಗುತ್ತಿದೆ ಆದರೆ ಫಾಗಿಂಗ್ ವಾಹನ ತಿಂಗಳಿಂದ ಬಂದಿಲ್ಲ.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0205",
+    "text": "ರಸ್ತೆ ಬದಿಯಲ್ಲಿ ನಿರ್ಮಾಣ ಅವಶೇಷಗಳು ವಾರಗಳಿಂದ ಬಿದ್ದಿವೆ, ಒಂದು ಲೇನ್ ಮುಚ್ಚಿಹೋಗಿದೆ.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0206",
+    "text": "ಕಟ್ಟಡದ ಅಗ್ನಿ ಸುರಕ್ಷತಾ ಸಾಧನಗಳು ಎರಡು ವರ್ಷಗಳ ಹಿಂದೆಯೇ ಅವಧಿ ಮುಗಿದಿವೆ.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0207",
+    "text": "ಕೆರೆಯಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಮತ್ತು ಕಸ ತುಂಬಿಹೋಗಿದೆ, ಮೀನುಗಳು ಸಾಯುತ್ತಿವೆ.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0208",
+    "text": "ರೇಷನ್ ಅಂಗಡಿಯವನು ಕಡಿಮೆ ಧಾನ್ಯ ಕೊಟ್ಟು ಹೆಚ್ಚು ಹಣ ತೆಗೆದುಕೊಳ್ಳುತ್ತಾನೆ.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0209",
+    "text": "ಸ್ವಲ್ಪ ಮಳೆಯಾದರೂ ರಸ್ತೆಯಲ್ಲಿ ನೀರು ನಿಲ್ಲುತ್ತದೆ, ಶಾಶ್ವತ ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಇಲ್ಲ.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0210",
+    "text": "ಗ್ಯಾಸ್ ಸಿಲಿಂಡರ್ ಪೂರೈಕೆದಾರ ಸರ್ಕಾರಿ ದರಕ್ಕಿಂತ ಹೆಚ್ಚು ಹಣ ವಸೂಲಿ ಮಾಡುತ್ತಿದ್ದಾನೆ.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "kn",
+      "language_name": "Kannada"
+    }
+  },
+  {
+    "id": "cmp_i_0211",
+    "text": "ഞങ്ങളുടെ പ്രദേശത്ത് കഴിഞ്ഞ മൂന്ന് ദിവസമായി വെള്ളം ഇല്ല, ദയവായി ഉടൻ ശ്രദ്ധിക്കുക.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0212",
+    "text": "റോഡിൽ വലിയ കുഴി രൂപപ്പെട്ടിരിക്കുന്നു, ഇതുമൂലം ദിവസവും അപകടങ്ങൾ ഉണ്ടാകുന്നു.",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0213",
+    "text": "ഞങ്ങളുടെ തെരുവിൽ മാലിന്യ വണ്ടി ദിവസവും വരാറില്ല, റോഡിൽ മാലിന്യം കുന്നുകൂടിയിരിക്കുന്നു.",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0214",
+    "text": "തെരുവ് വിളക്കുകൾ കഴിഞ്ഞ രണ്ട് ആഴ്ചയായി ഓഫ് ആണ്, രാത്രി വളരെ ഇരുട്ടാണ്.",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0215",
+    "text": "അഴുക്കുചാൽ വെള്ളം റോഡിലേക്ക് ഒഴുകുന്നു, ദുർഗന്ധം സഹിക്കാൻ പറ്റുന്നില്ല.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0216",
+    "text": "തെരുവ് നായ്ക്കളുടെ ശല്യം വർധിച്ചിരിക്കുന്നു, സ്കൂളിനടുത്ത് കുട്ടികളെ കടിച്ചു.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0217",
+    "text": "അനുമതി ഇല്ലാതെ നിയമവിരുദ്ധമായ നിർമ്മാണം നടക്കുന്നു, ഉടനടി നടപടി എടുക്കണം.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0218",
+    "text": "റോഡിന്റെ നടുവിൽ മാൻഹോൾ തുറന്നു കിടക്കുന്നു, രാത്രി ആരെങ്കിലും വീണേക്കാം.",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0219",
+    "text": "വാർഡ് ഓഫീസിൽ കൈക്കൂലി കൊടുക്കാതെ ഒരു ജോലിയും നടക്കില്ല.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0220",
+    "text": "വെള്ളത്തിൽ വിഷം കലർത്തിയെന്ന് സോഷ്യൽ മീഡിയയിൽ കിംവദന്തി പരക്കുന്നു, ദയവായി ഔദ്യോഗികമായി വ്യക്തത വരുത്തുക.",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0221",
+    "text": "രാത്രി വൈകി ലൗഡ്സ്പീക്കർ ശബ്ദം കേൾക്കുന്നു, കുട്ടികളുടെ ഉറക്കം നഷ്ടപ്പെടുന്നു.",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0222",
+    "text": "പാർക്കിലെ കളിപ്പാട്ടങ്ങൾ പൊട്ടിപ്പോയി, തുരുമ്പെടുത്തിരിക്കുന്നു, കുട്ടികൾക്ക് പരിക്കേൽക്കാൻ സാധ്യതയുണ്ട്.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0223",
+    "text": "സർക്കാർ ആശുപത്രിയിൽ ഡോക്ടർ കൃത്യസമയത്ത് വരാറില്ല, രോഗികൾ വളരെ ബുദ്ധിമുട്ടുന്നു.",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0224",
+    "text": "ബസ് സ്റ്റോപ്പിന്റെ ഷെഡ് പൊട്ടിപ്പോയി, മഴയിൽ യാത്രക്കാർക്ക് നനയേണ്ടി വരുന്നു.",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0225",
+    "text": "കോർപ്പറേറ്ററുടെ ഓഫീസ് മിക്കപ്പോഴും അടച്ചിരിക്കും, പരാതി കേൾക്കാൻ ആരുമില്ല.",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0226",
+    "text": "വെള്ള പൈപ്പ്‌ലൈൻ പൊട്ടിയിരിക്കുന്നു, ദിവസവും ആയിരക്കണക്കിന് ലിറ്റർ വെള്ളം പാഴാകുന്നു.",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0227",
+    "text": "നടപ്പാതയിലെ ടൈലുകൾ ഇളകിപ്പോയി, പ്രായമായവർക്ക് നടക്കാൻ വളരെ ബുദ്ധിമുട്ടാണ്.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0228",
+    "text": "പൊതു ശൗചാലയത്തിൽ വെള്ളമില്ല, വളരെ വൃത്തിഹീനമാണ്, സ്ത്രീകൾക്ക് ഉപയോഗിക്കാൻ ബുദ്ധിമുട്ടാണ്.",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0229",
+    "text": "ഇന്നലെ രാത്രി ട്രാൻസ്ഫോർമറിൽ നിന്ന് തീപ്പൊരി വരുന്നുണ്ടായിരുന്നു, ദയവായി ഉടൻ പരിശോധിക്കുക.",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0230",
+    "text": "കെട്ടിടത്തിൽ അനുമതി ഇല്ലാതെ പുതിയ നില പണിയുന്നു, നിർമ്മാണം സുരക്ഷിതമല്ലെന്ന് തോന്നുന്നു.",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0231",
+    "text": "അലഞ്ഞുതിരിയുന്ന കന്നുകാലികൾ പ്രധാന റോഡിൽ ചുറ്റിനടക്കുന്നു, വൈകുന്നേരങ്ങളിൽ അപകടങ്ങൾ ഉണ്ടാകുന്നു.",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0232",
+    "text": "റോഡ് പണി മൂന്ന് മാസമായി പൂർത്തിയാകാതെ കിടക്കുന്നു, ബാരിക്കേഡുകൾ ഇപ്പോഴും അങ്ஙനെ തന്നെ.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0233",
+    "text": "സ്വത്ത് നികുതി രസീത് നൽകാൻ ഏജന്റ് കൂടുതൽ പണം ആവശ്യപ്പെടുന്നു.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0234",
+    "text": "ഡെങ്കിപ്പനി രോഗികൾ വർധിക്കുന്നു, പക്ഷേ ഫോഗിംഗ് വണ്ടി ഒരു മാസമായി വന്നിട്ടില്ല.",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0235",
+    "text": "റോഡരികിൽ നിർമ്മാണ അവശിഷ്ടങ്ങൾ ആഴ്ചകളായി കിടക്കുന്നു, ഒരു വരി അടഞ്ഞുപോയി.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0236",
+    "text": "കെട്ടിടത്തിന്റെ ഫയർ സേഫ്റ്റി ഉപകരണങ്ങൾ രണ്ട് വർഷം മുമ്പേ കാലാവധി കഴിഞ്ഞു.",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0237",
+    "text": "കുളത്തിൽ പ്ലാസ്റ്റിക്കും മാലിന്യവും നിറഞ്ഞിരിക്കുന്നു, മീനുകൾ ചത്തുപൊങ്ങുന്നു.",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0238",
+    "text": "റേഷൻ കടക്കാരൻ കുറഞ്ഞ ധാന്യം കൊടുത്ത് കൂടുതൽ പണം വാങ്ങുന്നു.",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0239",
+    "text": "ചെറിയ മഴയിൽ പോലും റോഡിൽ വെള്ളം കെട്ടിനിൽക്കുന്നു, സ്ഥിരമായ ഡ്രെയിനേജ് സംവിധാനം ഇല്ല.",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0240",
+    "text": "ഗ്യാസ് സിലിണ്ടർ വിതരണക്കാരൻ സർക്കാർ വിലയേക്കാൾ കൂടുതൽ പണം ഈടാക്കുന്നു.",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "ml",
+      "language_name": "Malayalam"
+    }
+  },
+  {
+    "id": "cmp_i_0241",
+    "text": "ଆମ ଅଞ୍ଚଳରେ ଗତ ତିନି ଦିନ ହେଲା ପାଣି ଆସୁନାହିଁ, ଦୟାକରି ଶୀଘ୍ର ଧ୍ୟାନ ଦିଅନ୍ତୁ।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0242",
+    "text": "ରାସ୍ତାରେ ବଡ଼ ଗାତ ପଡ଼ିଛି, ଏହା ଯୋଗୁଁ ପ୍ରତିଦିନ ଦୁର୍ଘଟଣା ଘଟୁଛି।",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0243",
+    "text": "ଆମ ଗଳିରେ ଆବର୍ଜନା ଗାଡ଼ି ପ୍ରତିଦିନ ଆସୁନାହିଁ, ରାସ୍ତାରେ ଆବର୍ଜନା ଜମା ହୋଇଛି।",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0244",
+    "text": "ଗଳି ବତୀ ଗତ ଦୁଇ ସପ୍ତାହ ହେଲା ବନ୍ଦ ଅଛି, ରାତିରେ ବହୁତ ଅନ୍ଧାର ରହୁଛି।",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0245",
+    "text": "ନାଳର ପାଣି ରାସ୍ତା ଉପରକୁ ବହି ଆସୁଛି, ଦୁର୍ଗନ୍ଧ ସହ୍ୟ କରିହେଉନାହିଁ।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0246",
+    "text": "ରାସ୍ତା କୁକୁରଙ୍କ ଉପଦ୍ରବ ବଢ଼ିଯାଇଛି, ସ୍କୁଲ ପାଖରେ ପିଲାଙ୍କୁ କାମୁଡ଼ିଛନ୍ତି।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0247",
+    "text": "ଅନୁମତି ବିନା ଅବୈଧ ନିର୍ମାଣ କାର୍ଯ୍ୟ ଚାଲିଛି, ତୁରନ୍ତ ପଦକ୍ଷେପ ନିଆଯାଉ।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0248",
+    "text": "ରାସ୍ତା ମଝିରେ ମ୍ୟାନହୋଲ ଖୋଲା ପଡ଼ିଛି, ରାତିରେ କେହି ପଡ଼ିଯାଇପାରନ୍ତି।",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0249",
+    "text": "ୱାର୍ଡ ଅଫିସରେ ଲାଞ୍ଚ ନଦେଇ କୌଣସି କାମ ହେଉନାହିଁ।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0250",
+    "text": "ପାଣିରେ ବିଷ ମିଶାଯାଇଛି ବୋଲି ସୋସିଆଲ ମିଡିଆରେ ଗୁଜବ ବ୍ୟାପିଛି, ଦୟାକରି ସରକାରୀ ଭାବେ ସ୍ପଷ୍ଟ କରନ୍ତୁ।",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0251",
+    "text": "ରାତିରେ ଅଧିକ ସମୟ ଧରି ଲାଉଡସ୍ପିକର ବାଜୁଛି, ପିଲାଙ୍କ ନିଦ ନଷ୍ଟ ହେଉଛି।",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0252",
+    "text": "ପାର୍କରେ ଥିବା ଖେଳନା ଭାଙ୍ଗିଯାଇଛି ଏବଂ ମରଚା ଧରିଯାଇଛି, ପିଲାଙ୍କୁ ଆଘାତ ହେବାର ଭୟ ଅଛି।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0253",
+    "text": "ସରକାରୀ ଡାକ୍ତରଖାନାରେ ଡାକ୍ତର ସମୟରେ ଆସନ୍ତି ନାହିଁ, ରୋଗୀଙ୍କୁ ବହୁତ ଅସୁବିଧା ହେଉଛି।",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0254",
+    "text": "ବସ ଷ୍ଟପର ଛାତ ଭାଙ୍ଗିଯାଇଛି, ବର୍ଷାରେ ଯାତ୍ରୀମାନେ ଭିଜିବାକୁ ପଡ଼ୁଛି।",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0255",
+    "text": "କର୍ପୋରେଟରଙ୍କ ଅଫିସ ଅଧିକାଂଶ ସମୟ ବନ୍ଦ ରହେ, ଅଭିଯୋଗ ଶୁଣିବାକୁ କେହି ନାହାନ୍ତି।",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0256",
+    "text": "ପାଣି ପାଇପଲାଇନ ଫାଟିଯାଇଛି, ପ୍ରତିଦିନ ହଜାର ହଜାର ଲିଟର ପାଣି ନଷ୍ଟ ହେଉଛି।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0257",
+    "text": "ପାଦଚଲା ପଥର ଟାଇଲ୍ସ ଉଠିଯାଇଛି, ବୟସ୍କ ଲୋକଙ୍କୁ ଚାଲିବାରେ ବହୁତ ଅସୁବିଧା ହେଉଛି।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0258",
+    "text": "ସାର୍ବଜନୀନ ଶୌଚାଳୟରେ ପାଣି ନାହିଁ ଏବଂ ବହୁତ ଅପରିଷ୍କାର ଅଛି, ମହିଳାମାନଙ୍କ ପାଇଁ ବ୍ୟବହାର କରିବା କଷ୍ଟକର।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0259",
+    "text": "ଗତକାଲି ରାତିରେ ଟ୍ରାନ୍ସଫର୍ମରରୁ ଆଗୁଣ ସ୍ଫୁଲିଙ୍ଗ ବାହାରୁଥିଲା, ଦୟାକରି ତୁରନ୍ତ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0260",
+    "text": "ବିଲଡିଂରେ ଅନୁମତି ବିନା ନୂଆ ମହଲା ତିଆରି ହେଉଛି, ଢାଞ୍ଚା ଅସୁରକ୍ଷିତ ଲାଗୁଛି।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0261",
+    "text": "ମୁକ୍ତ ଗାଈ ଗୋରୁ ମୁଖ୍ୟ ରାସ୍ତାରେ ବୁଲୁଥାନ୍ତି, ସନ୍ଧ୍ୟା ସମୟରେ ଦୁର୍ଘଟଣା ଘଟୁଛି।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0262",
+    "text": "ରାସ୍ତା କାମ ତିନି ମାସ ହେଲା ଅଧା ଅବସ୍ଥାରେ ପଡ଼ିଛି, ବ୍ୟାରିକେଡ ଏବେ ବି ସେହିପରି ଅଛି।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0263",
+    "text": "ସମ୍ପତ୍ତି କର ରସିଦ ଦେବା ପାଇଁ ଏଜେଣ୍ଟ ଅଧିକ ଟଙ୍କା ମାଗୁଛି।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0264",
+    "text": "ଡେଙ୍ଗୁ ରୋଗୀ ସଂଖ୍ୟା ବଢ଼ୁଛି କିନ୍ତୁ ଫଗିଙ୍ଗ ଗାଡ଼ି ଏକ ମାସ ହେଲା ଆସିନାହିଁ।",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0265",
+    "text": "ରାସ୍ତା କଡ଼େ ନିର୍ମାଣ ମଲବା ସପ୍ତାହ ଧରି ପଡ଼ିଛି, ଗୋଟିଏ ଲେନ ବନ୍ଦ ହୋଇଯାଇଛି।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0266",
+    "text": "ବିଲଡିଂର ଅଗ୍ନି ସୁରକ୍ଷା ଉପକରଣ ଦୁଇ ବର୍ଷ ପୂର୍ବେ ମିଆଦ ସରିଯାଇଛି।",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0267",
+    "text": "ପୋଖରୀରେ ପ୍ଲାଷ୍ଟିକ ଏବଂ ଆବର୍ଜନା ଭରି ରହିଛି, ମାଛମାନେ ମରୁଛନ୍ତି।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0268",
+    "text": "ରେସନ ଦୋକାନୀ କମ ଶସ୍ୟ ଦେଇ ଅଧିକ ଟଙ୍କା ନେଉଛନ୍ତି।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0269",
+    "text": "ଅଳ୍ପ ବର୍ଷାରେ ମଧ୍ୟ ରାସ୍ତାରେ ପାଣି ଜମି ରହୁଛି, ସ୍ଥାୟୀ ଡ୍ରେନେଜ ବ୍ୟବସ୍ଥା ନାହିଁ।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0270",
+    "text": "ଗ୍ୟାସ ସିଲିଣ୍ଡର ଯୋଗାଣକାରୀ ସରକାରୀ ଦରଠାରୁ ଅଧିକ ଟଙ୍କା ନେଉଛନ୍ତି।",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "or",
+      "language_name": "Odia"
+    }
+  },
+  {
+    "id": "cmp_i_0271",
+    "text": "আমাৰ অঞ্চলত যোৱা তিনি দিনৰ পৰা পানী নাই, অনুগ্ৰহ কৰি সোনকালে মনোযোগ দিয়ক।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Kurla"
+    }
+  },
+  {
+    "id": "cmp_i_0272",
+    "text": "বাটত ডাঙৰ গাঁত হৈ আছে, ইয়াৰ বাবে প্ৰতিদিনে দুৰ্ঘটনা ঘটি আছে।",
+    "expected_category": "road",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Andheri"
+    }
+  },
+  {
+    "id": "cmp_i_0273",
+    "text": "আমাৰ গলিত আবৰ্জনাৰ গাড়ী প্ৰতিদিনে নাহে, বাটত জাবৰ জমা হৈ আছে।",
+    "expected_category": "garbage",
+    "expected_urgency": "medium",
+    "lat": 19.187,
+    "lng": 72.848,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0274",
+    "text": "ৰাস্তাৰ বাতি যোৱা দুই সপ্তাহৰ পৰা বন্ধ হৈ আছে, ৰাতি বহুত আন্ধাৰ হৈ থাকে।",
+    "expected_category": "electricity",
+    "expected_urgency": "medium",
+    "lat": 19.033,
+    "lng": 72.899,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0275",
+    "text": "নলাৰ পানী বাটলৈ উপচি পৰি আছে, দুৰ্গন্ধ সহ্য কৰিব পৰা নাই।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0396,
+    "lng": 72.879,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Dharavi"
+    }
+  },
+  {
+    "id": "cmp_i_0276",
+    "text": "বেছুৱা কুকুৰৰ উপদ্ৰৱ বৃদ্ধি পাইছে, স্কুলৰ কাষত শিশুক কামুৰি লৈছে।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "high",
+    "lat": 19.129,
+    "lng": 72.839,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0277",
+    "text": "অনুমতি নোহোৱাকৈ বেআইনী নিৰ্মাণ কাম চলি আছে, লগে লগে ব্যৱস্থা লোৱা হওক।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "high",
+    "lat": 19.0748,
+    "lng": 72.829,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0278",
+    "text": "বাটৰ মাজত মেনহল খোলা আছে, ৰাতি কোনোবাই পৰি যাব পাৰে।",
+    "expected_category": "public_safety",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.871,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0279",
+    "text": "ৱাৰ্ড অফিচত ঘুষ নিদিয়াকৈ কোনো কাম নহয়।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.0748,
+    "lng": 72.859,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0280",
+    "text": "পানীত বিহ মিহলি কৰা হৈছে বুলি চোচিয়েল মিডিয়াত জনৰৱা বিয়পি আছে, অনুগ্ৰহ কৰি চৰকাৰীভাৱে স্পষ্ট কৰক।",
+    "expected_category": "misinformation",
+    "expected_urgency": "high",
+    "lat": 19.1197,
+    "lng": 72.848,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0281",
+    "text": "ৰাতি পলমকৈও লাউডস্পীকাৰৰ শব্দ শুনা যায়, শিশুৰ টোপনি নষ্ট হয়।",
+    "expected_category": "noise",
+    "expected_urgency": "low",
+    "lat": 19.045,
+    "lng": 72.862,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0282",
+    "text": "উদ্যানত থকা খেল সামগ্ৰী ভাঙি গৈছে আৰু মৰিচা ধৰিছে, শিশুৰ আঘাত পোৱাৰ আশংকা আছে।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.871,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0283",
+    "text": "চৰকাৰী চিকিৎসালয়ত চিকিৎসক সময়মতে নাহে, ৰোগীসকলে বহুত অসুবিধা পাই আছে।",
+    "expected_category": "public_health",
+    "expected_urgency": "medium",
+    "lat": 19.087,
+    "lng": 72.859,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0284",
+    "text": "বাছ ষ্টপৰ চাল ভাঙি গৈছে, বৰষুণত যাত্ৰীসকলে তিতিব লগা হয়।",
+    "expected_category": "public_transport",
+    "expected_urgency": "low",
+    "lat": 19.178,
+    "lng": 72.839,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0285",
+    "text": "কৰ্পোৰেটৰৰ কাৰ্যালয় বেছিভাগ সময়তে বন্ধ থাকে, অভিযোগ শুনিবলৈ কোনো নাই।",
+    "expected_category": "public_services",
+    "expected_urgency": "low",
+    "lat": 19.162,
+    "lng": 72.848,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0286",
+    "text": "পানীৰ পাইপলাইন ফাটি গৈছে, প্ৰতিদিনে হাজাৰ হাজাৰ লিটাৰ পানী নষ্ট হৈ আছে।",
+    "expected_category": "water",
+    "expected_urgency": "high",
+    "lat": 19.1091,
+    "lng": 72.8365,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0287",
+    "text": "ফুটপাথৰ টাইলছ উঠি গৈছে, বৃদ্ধসকলৰ খোজ কাঢ়িবলৈ বহুত অসুবিধা হৈছে।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0596,
+    "lng": 72.8295,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Bandra"
+    }
+  },
+  {
+    "id": "cmp_i_0288",
+    "text": "চাৰ্বজনীন শৌচাগাৰত পানী নাই, বহুত অপৰিষ্কাৰ, মহিলাসকলৰ বাবে ব্যৱহাৰ কৰা টান।",
+    "expected_category": "sanitation",
+    "expected_urgency": "high",
+    "lat": 19.0596,
+    "lng": 72.84,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0289",
+    "text": "যোৱা নিশা ট্ৰান্সফৰ্মাৰৰ পৰা জুইৰ স্ফুলিংগ ওলাই আছিল, অনুগ্ৰহ কৰি লগে লগে পৰীক্ষা কৰক।",
+    "expected_category": "electricity",
+    "expected_urgency": "high",
+    "lat": 19.178,
+    "lng": 72.899,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0290",
+    "text": "বিল্ডিঙত অনুমতি নোহোৱাকৈ নতুন মহলা সাজি আছে, গঠন অসুৰক্ষিত যেন লাগিছে।",
+    "expected_category": "illegal_construction",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.848,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0291",
+    "text": "মুকলি গৰু-মহিষ মূল বাটত ঘূৰি ফুৰে, সন্ধিয়া সময়ত দুৰ্ঘটনা ঘটে।",
+    "expected_category": "stray_animals",
+    "expected_urgency": "medium",
+    "lat": 19.162,
+    "lng": 72.967,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0292",
+    "text": "বাটৰ কাম তিনি মাহ ধৰি অসম্পূৰ্ণ হৈ আছে, বেৰিকেড এতিয়াও তেনেকৈয়ে আছে।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.1075,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0293",
+    "text": "সম্পত্তি কৰৰ ৰচিদ দিবলৈ এজেন্টে অধিক টকা বিচাৰিছে।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.038,
+    "lng": 72.862,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0294",
+    "text": "ডেংগু ৰোগীৰ সংখ্যা বাঢ়ি আছে কিন্তু ফগিং গাড়ী এমাহ ধৰি অহা নাই।",
+    "expected_category": "public_health",
+    "expected_urgency": "high",
+    "lat": 19.033,
+    "lng": 72.848,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0295",
+    "text": "বাটৰ কাষত নিৰ্মাণ আবৰ্জনা সপ্তাহ ধৰি পৰি আছে, এটা লেন বন্ধ হৈ গৈছে।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.2,
+    "lng": 72.9781,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Ghodbunder Road"
+    }
+  },
+  {
+    "id": "cmp_i_0296",
+    "text": "বিল্ডিঙৰ অগ্নি সুৰক্ষা সঁজুলি দুবছৰ আগতে মিয়াদ শেষ হৈ গৈছে।",
+    "expected_category": "public_safety",
+    "expected_urgency": "medium",
+    "lat": 19.145,
+    "lng": 72.829,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0297",
+    "text": "পুখুৰীত প্লাষ্টিক আৰু আবৰ্জনা ভৰি আছে, মাছ মৰি আছে।",
+    "expected_category": "parks_environment",
+    "expected_urgency": "low",
+    "lat": 19.2,
+    "lng": 72.949,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Thane"
+    }
+  },
+  {
+    "id": "cmp_i_0298",
+    "text": "ৰেচন দোকানীয়ে কম শস্য দি বেছি টকা লয়।",
+    "expected_category": "corruption",
+    "expected_urgency": "medium",
+    "lat": 19.043,
+    "lng": 72.899,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  },
+  {
+    "id": "cmp_i_0299",
+    "text": "অলপ বৰষুণতো বাটত পানী জমা হয়, স্থায়ী পানী নিষ্কাশন ব্যৱস্থা নাই।",
+    "expected_category": "road",
+    "expected_urgency": "medium",
+    "lat": 19.0,
+    "lng": 72.8367,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese",
+      "landmark": "Hindmata"
+    }
+  },
+  {
+    "id": "cmp_i_0300",
+    "text": "গেছ চিলিণ্ডাৰ যোগানকাৰীয়ে চৰকাৰী দৰতকৈ বেছি টকা লৈ আছে।",
+    "expected_category": "corruption",
+    "expected_urgency": "low",
+    "lat": 19.121,
+    "lng": 72.829,
+    "metadata": {
+      "language": "as",
+      "language_name": "Assamese"
+    }
+  }
+]

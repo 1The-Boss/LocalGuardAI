@@ -1,23 +1,41 @@
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
-from app.models.report import Report
-from app.schemas.report import ReportCreate, ReportUpdate
-from app.ai.priority_engine import predict_priority
+from ..models.report import Report
+from ..schemas.report import ReportCreate, ReportUpdate
+from ..ai.priority_engine import predict_priority
+from ..ai.hybrid_classifier import classify
+from ..ai.category_classifier import generate_citizen_response
+from geoalchemy2.elements import WKTElement
 
+URGENCY_BOOST = {"low": 0, "medium": 2, "high": 5}
+
+async def get_existing_categories(db: AsyncSession) -> list[str]:
+    result = await db.execute(select(Report.category).distinct())
+    return [row[0] for row in result.all() if row[0]]
 
 async def create_report(db: AsyncSession, report_data: ReportCreate):
-    # Calculate priority score using AI model
+    if report_data.category:
+        classification = {"category": report_data.category, "urgency": "medium", "source": "manual"}
+    else:
+        existing_categories = await get_existing_categories(db)
+        classification = await classify(report_data.description, existing_categories)
+
+    print("DEBUG classification:", classification)
+
     try:
-        calculated_priority = predict_priority(report_data.description)
+        base_priority = predict_priority(report_data.description)
     except Exception:
-        calculated_priority = 0.0
+        base_priority = 0.0
+
+    urgency_boost = URGENCY_BOOST.get(classification.get("urgency", "medium"), 2)
 
     new_report = Report(
         description=report_data.description,
         lat=report_data.lat,
         lng=report_data.lng,
-        category=report_data.category,
-        priority_score=calculated_priority,
+        geo=WKTElement(f"POINT({report_data.lng} {report_data.lat})", srid=4326),
+        category=report_data.category or classification.get("category"),
+        priority_score=base_priority + urgency_boost,
         status="open"
     )
 
@@ -28,6 +46,10 @@ async def create_report(db: AsyncSession, report_data: ReportCreate):
     await db.commit()
     await db.refresh(new_report)
 
+    # citizen-facing ack, generated after commit so we have new_report.id/status confirmed
+    new_report.ack_message = generate_citizen_response(
+        report_data.description, new_report.category, new_report.status
+    )
     return new_report
 
 
